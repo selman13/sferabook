@@ -1,0 +1,903 @@
+{
+  "books": [
+    {
+      "bookID": 0,
+      "bookName": "1984",
+      "bookAuthor": "Corc Oruell",
+      "bookDescription": "İnsanların düşüncəsi manipulyasiya və təhdid yolu ilə kontrolda saxlanılır. Xalqı yalnız bir partiyanın yaratdığı sərt siyasi rejim idarə edir. Bu idarəçiliyin yeganə üsulu qorxudur. Roman boyunca hər yerdə Böyük Qardaşın rəsmlərini görür, səsini eşidirik. O, tanrı kimi hər şeyə nəzarət edir. Onun rəhbərliyi ilə cəmiyyəti rejimin qanun-qaydalarına əməl etməyə yönəldirlər. Fərqli düşünən istənilən insanın beyni yuyulur və o, tezliklə ümumi qəlibə salınır.",
+      "bookPhoto": "https://static.insales-cdn.com/images/products/1/6688/532666912/2022-03-26-09-32-261648272746.jpg",
+      "bookGenre": "Distopik",
+      "bookPrice": 10.99,
+      "bookYear": 1949,
+      "bookPage": 423,
+      "bookCount": 100
+    },
+
+    {
+      "bookID": 1,
+      "bookName": "Da Vinci Şifrəsi",
+      "bookAuthor": "Dan  Braun",
+      "bookDescription": "Leonardo da Vinçi işlərində gizli şifrələr var… Yalnız bu, ağlasığmaz hakimiyyət və qüdrət bəxş edən xristian ziyarətgahlarını tapmağa kömək edər… Bəşəriyyətin əsrlərlə öyrənməyə can atdığı böyük sirrin açarı bəlkə də tapıldı… Müəllif ‘Da vinçi şifrəsi’ romanı üzərində işləyərkən, apardığı tədqiqatların bütün nəticələrini baş qəhrəmanı, din tarixi və ikonoqrafiya üzrə Harrvard Universitetinin professoru Robert Lenqdonun vasitəsilə oxuculara çatdırır….",
+      "bookPhoto": "https://static.insales-cdn.com/images/products/1/5084/171070428/c87668381338010ade334f4c2907c1b6.jpg",
+      "bookGenre": "Dedektiv",
+      "bookPrice": 12.99,
+      "bookYear": 2003,
+      "bookPage": 519,
+      "bookCount": 100
+    },
+
+    {
+      "bookID": 2,
+      "bookName": "Öz xəstəliyini sev",
+      "bookAuthor": "Valeri Sinelkinov",
+      "bookDescription": "'Öz xəstəliyin sev' kitabı vasitəsi ilə siz şüuraltı proqramlaşdırma vasitəsi ilə depressiya, nifrət, paxıllıq, aqressiya, günahkarlıq hissi kimi xəstəliktörədən emosiyalardan can qurtmarmağı və uğurlu, xoşbəxt bir insan olmağın yollarını öyrənə bilərsiniz. Kitabın müalicəvi gücü onu əlinizə aldığınız ilk dəqiqədən olaraq öz təsirini göstərməyə başalayır.",
+      "bookPhoto": "https://www.qanun.az/images/news/compressed/2022-12-09-12-17-011670573821.jpg",
+      "bookGenre": ["Psixologiya", "Özünüinkişaf"],
+      "bookPrice": 9.99,
+      "bookYear": 2000,
+      "bookPage": 391,
+      "bookCount": 100
+    },
+
+    {
+      "bookID": 3,
+      "bookName": "Buz şahzadəsi",
+      "bookAuthor": "Kamilla Lekberq",
+      "bookDescription": " Erika Falk ata-anasının ölümündən sonra öz doğma kəndinə, İsveçin kiçik və ucqar Felbakka kəndinə gəlir və burada başqa bir faciə ilə rastlaşır: qadının uşaqlıq rəfiqəsi Aleks intihar edib. Aleksin nəşini də o özü tapır – hamam vannasının dondurulmuş suyunda, biləkləri doğranmış halda. Erika ağlına sığışdıra bilmir: hər şeyi olan gözəl bir qadın canına niyə qıysın? Polis detektivi Patrik Hedstromla birlikdə onlar Aleksin uşaqlıq həyatından dəhşətli şeylər öyrənirlər. Baş verənləri öyrəndikcə Erika və Patrikin marağı onları bir-birinə daha da yaxınlaşdırır, flört və eşqbazlıq qarşısıalınmaz cazibə ilə onları ağuşuna alır. Tezliklə bir şey aydın olur: qətlin sirri açılmaqdadır, amma kimsə var ki, buna mane olmağa, hətta bunun üçün daha birisini öldürməyə hazırdır..",
+      "bookPhoto": "https://static.insales-cdn.com/images/products/1/3133/392375357/Kamilla_Lekberq_qapaq_Esas.png",
+      "bookGenre": "Dedektiv",
+      "bookPrice": 10.99,
+      "bookYear": 2003,
+      "bookPage": 479,
+      "bookCount": 100
+    },
+
+    {
+      "bookID": 4,
+      "bookName": "Ölülər evindən qeydlər",
+      "bookAuthor": "Fyodor Dostoyevski",
+      "bookDescription": "Bu əsəri Dostoyevski onillik fasilədən, Sibir sürgünündən qayıtdıqdan sonra yazmışdır. 1849-cu ildə yazıçı Petraşevskinin dərnəyində iştirakına və orada V.Q.Belinskinin 'Qoqola məktub'unu oxuduğuna görə digər sosialist-utopistlərlə birlikdə həbs edilmişdi. Məhkəmə ona dərnəyin fəalları sırasında ölüm hökmü çıxarmış və onun icrasına bir neçə dəqiqə qalmış hökm Çar tərəfindən dəyişdirilərək Sibirə sürgünlə əvəz edilmişdi. Özünün çox da uzaqda olmayan ölüm anlarını yaşayan gənc ədib cəzanın dörd ilini Omsk şəhərinin həbsxanasında, qalan altı ilini isə Sibirdə keçirmişdi.'Ölü evdən qeydlər' əsəri yazıçının məhz Omsk həbsxanasındakı həyatını və təəssüratlarını əks etdirir və real faktlar əsasında yazılmışdır. Müdhiş cinayətlər törətmiş məhbuslarla ünsiyyət onun dünyagörüşünə ciddi təsir etmişdir.",
+      "bookPhoto": "https://static.insales-cdn.com/images/products/1/4345/171069689/3241b735496f7f731668c24f6e608f39.jpg",
+      "bookGenre": "Klassika",
+      "bookPrice": 5.92,
+      "bookYear": 1862,
+      "bookPage": 371,
+      "bookCount": 100
+    },
+
+    {
+      "bookID": 5,
+      "bookName": "100 ilin tənhalığı",
+      "bookAuthor": "Qabriel  Qarsiya Markes",
+      "bookDescription": "'Yüz ilin tənhalığı' romanında Buendia nəslinin yaran­ma­sı, yük­sə­lişi, qürubu və məhvi əks etdirilmişdir. Bu nəslin tarixi – hər bir Buendia üzvünün taleyində bu və ya digər şəkildə təzahür edən tən­halıq hekayətidir. Tənhalıq, ailə üzvlərinin bir-birindən aralı düş­­məsi, onların bir-birini anlaya bilməmələri romanda, hə­qi­qətən, mifik xarakter daşıyır…",
+      "bookPhoto": "http://kitabal.az/img/books/8366707.jpg",
+      "bookGenre": "Dram",
+      "bookPrice": 11.9,
+      "bookYear": 1967,
+      "bookPage": 464,
+      "bookCount": 100
+    },
+
+    {
+      "bookID": 6,
+      "bookName": "Ağlında bir rəqəm tut",
+      "bookAuthor": "Con Verdon",
+      "bookDescription": "Devidin gənclik dostu Mark Melleri bir gün ona müraciət edir. Mark Melleri anonim təhdid məktubu alır. Məktub müəllifi Markdan ürəyində bir üçrəqəmli ədəd tutmağı, sonra zərfin içindəki ikinci zərfə baxmağı tələb edir. Mark ikinci zərfin içindəki məktubda fikrində tutduğu üçrəqəmli ədədi görəndə dəhşətə gəlir, təlaşa düşərək veteran detektivə müraciət edir. Bu necə ola bilər? Axı həmin ədəd Mark üçün heç bir əhəmiyyət kəsb etmir. O, sadəcə üç rəqəmdən ibarət kombinasiyadır, vəssalam. Bu sirri açmağa Mark Mellerinin ömrü çatmır – təhdid məktubunu yazan şəxs vədinə əməl edərək onu öldürür. Bəs Devid Qörni? Qocaman detektiv qurbanlarını aradan götürməzdən əvvəl onları bu cür məktublarla dəhşətə gətirməyi sevən silsilə qətllər ustasını tapa biləcəkmi?",
+      "bookPhoto": "https://static.insales-cdn.com/images/products/1/5172/197112884/reqem_01.jpg",
+      "bookGenre": "Dedektiv",
+      "bookPrice": 12.50,
+      "bookYear": 2010,
+      "bookPage": 471,
+      "bookCount": 100
+    },
+
+    {
+      "bookID": 7,
+      "bookName": "Böyük ümidlər",
+      "bookAuthor": "Çarlz Dikkens",
+      "bookDescription": "Charles Dickens-in 1860-1861-ci illərdə həftəlik qəzetdə serial-roman kimi çap olunmuş 'Böyük Ümidlər' əsəri Pip adlı bir gəncin dövlət və şöhrətə gedən həyat yolundan bəhs edir. Romanın qəhrəmanı gələcəyə böyük ümidlərlə baxsa da, ümidləri boşa çıxır, çünki o, acizanə şəkildə taleyinə təslim olur. Romanı oxuyarkən XIX əsrin sənaye İngiltərəsinin acınacaqlı həyatı ilə də tanış ola biləcəksiniz. Əsərin ilkin versiyasında roman qəmgin sonluqla bitsə də, müəllif oxucuların xatirinə ona son bir cümlə əlavə edərək xoşbəxt notlara kökləyir. Bu isə dövrün bir çox yazıçılarının qınağına səbəb olur.",
+      "bookPhoto": "https://static.insales-cdn.com/images/products/1/4625/277901841/Carlz_Dikkens_Boyuk_Umidler_kapak_Esas.png",
+      "bookGenre": "Klassika",
+      "bookPrice": 13.9,
+      "bookYear": 1967,
+      "bookPage": 544,
+      "bookCount": 100
+    },
+
+    {
+      "bookID": 8,
+      "bookName": "Ay işıqlı küçə",
+      "bookAuthor": "Stefan Sveyq",
+      "bookDescription": "Fransada bir liman şəhərinin dənizçilər məhəlləsini gəzərkən ariya oxuyarkən eşitdiyi səsin ardınca tanımadığı insanların xəstə həyatına dalmış səyyah; öz müdirinə kölə sədaqəti ilə dəhşətli bir hərəkətə sövq edilən qaranlıq, cəlbedici və vəhşi qulluqçu; 1810-cu ildə İspaniyada gedən müharibədə yaralanan və düşmən ölkədə sağ qalmaq üçün amansız mübarizəyə başlayan fransız polkovniki; 1918-ci ilin bir yay gecəsi Leman gölündə tapılıb xilas edilən, lakin sonra ürəyini yandıran vətən həsrətinə yenilən rus hərbi əsiri; Həmyaşıdları universitetdə oxuyarkən hələ də orta məktəbdə oxuyan sərgərdan gəncin müəlliminin hakimiyyətinə qarşı üsyan edərək ödədiyi ağır qiymət. Zweig bu hekayələrdə insanları insanlıqdan çıxaran və onları ifrata doğru sürükləyən təcrübələrin izinə düşərkən, istər-istəməz oxucunu öz personajlarının mənəvi təlatümlərinə çəkir...",
+      "bookPhoto": "http://kitabal.az/img/books/4419675.jpg",
+      "bookGenre": "Klassika",
+      "bookPrice": 4.56,
+      "bookYear": 1920,
+      "bookPage": 74,
+      "bookCount": 100
+    },
+
+    {
+      "bookID": 9,
+      "bookName": "Qəribə bir gecə",
+      "bookAuthor": "Stefan Sveyq",
+      "bookDescription": "Fransada bir liman şəhərinin dənizçilər məhəlləsini gəzərkən ariya oxuyarkən eşitdiyi səsin ardınca tanımadığı insanların xəstə həyatına dalmış səyyah; öz müdirinə kölə sədaqəti ilə dəhşətli bir hərəkətə sövq edilən qaranlıq, cəlbedici və vəhşi qulluqçu; 1810-cu ildə İspaniyada gedən müharibədə yaralanan və düşmən ölkədə sağ qalmaq üçün amansız mübarizəyə başlayan fransız polkovniki; 1918-ci ilin bir yay gecəsi Leman gölündə tapılıb xilas edilən, lakin sonra ürəyini yandıran vətən həsrətinə yenilən rus hərbi əsiri; Həmyaşıdları universitetdə oxuyarkən hələ də orta məktəbdə oxuyan sərgərdan gəncin müəlliminin hakimiyyətinə qarşı üsyan edərək ödədiyi ağır qiymət. Zweig bu hekayələrdə insanları insanlıqdan çıxaran və onları ifrata doğru sürükləyən təcrübələrin izinə düşərkən, istər-istəməz oxucunu öz personajlarının mənəvi təlatümlərinə çəkir...",
+      "bookPhoto": "https://static.insales-cdn.com/images/products/1/5870/182499054/0000000671636-1.jpg",
+      "bookGenre": "Klassika",
+      "bookPrice": 4.3,
+      "bookYear": 1925,
+      "bookPage": 69,
+      "bookCount": 100
+    },
+
+    {
+      "bookID": 10,
+      "bookName": "İrodun kölgəsi",
+      "bookAuthor": "Çingiz Abdullayev",
+      "bookDescription": "Rusiya siyasi müxalifətinin liderlərindən birinin həyatına sui - qəsd 'ultrasağların' fəaliyyətinin nəticəsidir? Metro vaqonundakı terror aktı 'çeçen qisasçılarının' növbəti aksiyasıdır? Qəribəsi odur ki, hər iki cinayət hadisəsi eyni partlayıcı qurğunun köməyilə həyata keçirilib. Çeçenlər isə partlayışda iştiraklarını qəzəblə təkzib edirlər. Agent Dronqo təhqiqata başlayır.",
+      "bookPhoto": "https://static.insales-cdn.com/images/products/1/5094/171070438/da1d2a2f2f2b787d7ee1a8ef1557040a.jpg",
+      "bookGenre": "Dedektiv",
+      "bookPrice": 5.99,
+      "bookYear": 2010,
+      "bookPage": 319,
+      "bookCount": 100
+    },
+
+    {
+      "bookID": 11,
+      "bookName": "Qələbənin səcdəgahı",
+      "bookAuthor": "Çingiz Abdullayev",
+      "bookDescription": "Amerika xüsusi xidmət orqanları ona Alpinist, ruslar isə Veteran ləqəbi veriblər. Əvvəllər DTK-da, sonra isə Azərbaycan təhlükəsizlik orqanında işləmişdi. İndi isə bazası Əfqanıstan dağlarındakı mağaralarda yerləşən, ələkeçməz terror təşkilatı sırasına yeridilmişdi. Əslində, o kimdir? Bu suala cavab verməyə, yəqin ki, Füzuli Hüseynovun özü də çətinlik çəkər. Lakin bu amil bir o qədər də əhəmiyyət kəsb etmir, əhəmiyyətli olan yalnız onun aldığı, yerinə yetirəcəyi tapşırıqdır. Terrorçuların “çirkli” nüvə silahı hazırlayan məxfi laboratoriyası məhv edilib, lakin hazır “məhsullu” iki konteyner naməlum istiqamətdə yoxa çıxıb. Tez və ya gec onlar minlərlə insanın həyatını təhlükə qarşısında qoyaraq haradasa “peyda olacaq”. Buna yol vermək olmaz. Və onda Veteranın vaxtı gələcək – qisas silahınısa məhz o özü əvəz edəcək…",
+      "bookPhoto": "https://static.insales-cdn.com/images/products/1/1308/369976604/C.Abdullayev_Esas.png",
+      "bookGenre": "Dedektiv",
+      "bookPrice": 7.99,
+      "bookYear": 1999,
+      "bookPage": 247,
+      "bookCount": 100
+    },
+
+    {
+      "bookID": 12,
+      "bookName": "Məhəbbət yanğısı",
+      "bookAuthor": "Yukio Mişima",
+      "bookDescription": "Kimsə insanların öz qəlbini necə məharətlə aldatdığını təsəvvüründə canlandıra bilərmi? O, qanı axan, əzab çəkən cinsdən və əsəbdən ibarət bir varlıqdır. O, özünü başqalarından ayıran uçurumun kənarında dayandığını hiss edəndə ümidsizliyə qapılar, neyləyəcəyini bilmir. O, həyatına son qoymaq istəyir, eyni zamanda sevgi arzulayır. 'Məhəbbət yanğısı' romanı XX yüzilin ən məşhur yapon yazıçısı Yukio Misimanın kiçik şedevri hesab olunur.",
+      "bookPhoto": "https://static.insales-cdn.com/images/products/1/3581/434728445/mehe_yan.jpg",
+      "bookGenre": "Roman",
+      "bookPrice": 5,
+      "bookYear": 1950,
+      "bookPage": 274,
+      "bookCount": 100
+    },
+
+    {
+      "bookID": 13,
+      "bookName": "Mələk",
+      "bookAuthor": "Qaraqan",
+      "bookDescription": "Mələk adlanan bu əsər Fantastik-drama janrında yazılıb. Əsərdə Azərbaycan reallığı, əsl sevgi və onun acı nəticələri, paxıllıq, kin, nifrət, acgözlük və şəhvət hisslərinin ətrafında baş verən hadisələr oxucunu yeni, sərt həqiqətlərlə dolu bir dünyaya aparır. Gözəl bir qadın cildində bir oğlanın damına düşən mələk və onun taleyindən danışılır.",
+      "bookPhoto": "https://static.insales-cdn.com/images/products/1/5355/831632619/Melek_qapaq__1_.jpg",
+      "bookGenre": "Fantastika",
+      "bookPrice": 7,
+      "bookYear": 2012,
+      "bookPage": 131,
+      "bookCount": 100
+    },
+
+    {
+      "bookID": 14,
+      "bookName": "Qorxu vadisi",
+      "bookAuthor": "Artur Konan Doyl",
+      "bookDescription": "Romanın birinci hissəsində Şerlok Holms professor Moriartinin əlaltısı Porlokdan şifrəli məktub alır. Məktubda mister Duqlas adlı birisinə sui-qəsd hazırlanması barədə xəbər verilir. Bir qədər sonra Şerlok Holmsın Beykep-stritdəki evinə Skotlənd-Yardın inspektoru Makdonald gəlib xəbər verir ki, mister Duqlas öz malikanəsində qətlə yetirilib. Şerlok Holms tədqiqata başlayır. Lakin məlum olur ki, qətlə yetirilən mister Duqlas deyil, onu qətlə yetirmək istəyəndir. İkinci hissədə Pinkerton şirkətinin xəfiyyəsi Berdi Edvards, Makmerdo adı ilə Vermiss şəhərciyinə gəlir ki, “Təmizləyicilər”in dəstəsinə daxil olsun. Bu Mak-Merdoya nəsib olur. Romanın süjet xəttinin maraqlı, həyəcanlı hadisələri də bundan sonra başlayır…",
+      "bookPhoto": "https://static.insales-cdn.com/images/products/1/5359/171070703/7b1219af35625edacb563fdabff910c5.png",
+      "bookGenre": "Dedektiv",
+      "bookPrice": 5.49,
+      "bookYear": 1915,
+      "bookPage": 191,
+      "bookCount": 100
+    },
+
+    {
+      "bookID": 15,
+      "bookName": "Rezonans qanunu",
+      "bookAuthor": "Pierre Franckh",
+      "bookDescription": "Həmişə sənə əlçatmaz görünən xoşbəxt anlar üçün darıxırsan. Kainatın sonsuz zənginliyinin bir parçası olmaq və onunla harmoniyada qalmaq istəyirsən. İndi həyatın əsl, müdrik sirlərindən birini kəşf etməyin vaxtıdır: hiss etdiyiniz və ya düşündüyünüz hər şey rezonans sahəsi yaradır və həm sizi, həm də ətrafınızdakıları daimi olaraq dəyişir. Kvant düşüncə texnikasının əsasını təşkil edən Rezonans Qanununa görə, istəklərinizi həyata keçirməyə mane olan yeganə sərhədlər ürəyinizdədir. Bu kitabda Pierre Franckh istəklərinizi maneə törətmək potensialına malik olan daxili və xarici təsirləri necə aradan qaldıracağınızı, hədəflərinizin müsbət vizualizasiyasını necə yaratacağınızı, güclü rezonans sahəsini necə quracağınızı və istədiyiniz dəyişikliklərə necə nail olacağınızı izah edir.",
+      "bookPhoto": "https://static.insales-cdn.com/images/products/1/332/291504460/0001801769001-1.jpg",
+      "bookGenre": ["Psixologiya", "Özünüinkişaf"],
+      "bookPrice": 4.56,
+      "bookYear": 2019,
+      "bookPage": 204,
+      "bookCount": 100
+    },
+
+    {
+      "bookID": 16,
+      "bookName": "Mənim gözəl alibim",
+      "bookAuthor": "Çingiz Abdullayev",
+      "bookDescription": " “Mənim gözəl alibim” əsəri bir kriminal şəxsin həyat hekayəsidir. Əsərin baş qəhrəmanı muzdlu qatildir (killer). O, öz güzəranını başqa kriminal ünsürləri, parazitləri, haramxorları, caniləri öldürməklə qazanır və hətta buna görə təkcə yüksək “qonorar”la yanaşı həzz də alır. Bu əsərdə kriminal cəmiyyətdə çoxlarının – asayişi təmin etməli olan poqonluların da, bank-maliyyə sektoruna daraşmış fırıldaqçıların da adi quldurlardan fərqlənmədiyini göstərir. Bu cür cəngəllik qanunları ilə baş girləyən cəmiyyətdə bu sayaq “nüfuzlu, imkanlı, sərt adamlar”ın da təhlükəsizlikləri sual altındadır. Onlar qanunları tapdaya, qanun keşikçilərini pulla ala bilərlər, amma onları da bir əli olmayan muzdlu qatil öldürür. Çünki ona sifariş belə verilib. Olduqca maraqlı, axıcı təhkiyə ilə yazılmış “Mənim gözəl alibim” əsəri oxucuların xoşuna gələcək. Onlar bir killerin yaşantıları və düşüncələri, eləcə də aqibəti ilə tanış olacaqlar.",
+      "bookPhoto": "https://static.insales-cdn.com/images/products/1/4400/193188144/C.Abdullayev_Alibi_qapaq.png",
+      "bookGenre": "Dedektiv",
+      "bookPrice": 5.49,
+      "bookYear": 2006,
+      "bookPage": 191,
+      "bookCount": 100
+    },
+
+    {
+      "bookID": 17,
+      "bookName": "Saturnun tövbəsi",
+      "bookAuthor": "Çingiz Abdullayev",
+      "bookDescription": "Çingiz Abdullayevin “Mənim gözəl alibim” və “Üçüncü variant” kitablarının qəhrəmanı Solaxay ləqəbli killerin mifologiyanın qəhrəmanı Saturna nə kimi bənzəri ola bilər? Nə vaxtsa o, Rusiyanın ən yaxşı killeri olmuşdur. İndi isə dövran dəyişib. Heç kimin ağlına gəlməz ki, etibarlı, nüfuzlu amerikalı maskası altında “istefaya çıxmış” və keçmişi unutmağa qərar vermiş cinayətin superpeşəkarı gizlənir. Lakin bəzən UNUTMAQ ÇOX ÇƏTİNDİR. Bəzən keçmiş QAYIDIR. Və killer heç gözləmədiyi bir zamanda YENİ “SİFARİŞ” alaraq yenidən oyuna girməyə məcbur olur. Oyuna girir, lakin bu oyunda o, yalnız ovçu deyil, həm də qurbandır. Tapşırığı yerinə yetirdikdən sonra onu aradan götürmək üçün kiminsə gəldiyini hələ başa düşmədən… Kiminsə – çox yaxın birinin… Həddən artıq bir yaxınının…",
+      "bookPhoto": "https://static.insales-cdn.com/images/products/1/5250/171070594/bdb030eb2933ff57b64b12f7263b46ff.jpg",
+      "bookGenre": "Dedektiv",
+      "bookPrice": 5.49,
+      "bookYear": 2010,
+      "bookPage": 255,
+      "bookCount": 100
+    },
+
+    {
+      "bookID": 18,
+      "bookName": "Veronika ölməyə qərar verir",
+      "bookAuthor": "Paulo Coelho",
+      "bookDescription": "Veronika monastırda kirayələdiyi otaqda dörd qutu dər-man içərək intihar etmək istəyir. Bu qərarını o, iki cür əsas-landırır. Birincisi, həyatındakı hər şeyin eyni olması və yaşlılıqdan qorxması. İkincisi, Veronika qəzet oxuyan, televiziya izləyən bir xanım olduğu üçün, dünyada baş verənlərdən xəbərdardır. Səhv hesab etdiyi şeylərə mü- da- xilə etmək üçün gücsüzlüyünü dərk edən Veronika inti- har- dan başqa çıxış yolu görmür. Amma cəhdi uğursuzluqla nəticələnir, onu rahiblərdən biri xəstəxanaya çatdırır. İçdiyi dərmanlarla ürəyində problemlərin yaranmasına səbəb olan Veronikaya məlum olur ki, cəmi bir həftə ömrü qalıb. Onu ruhi-əsəb xəstəxanasına göndərirlər və Veronika burada Eduarda aşiq olur. Son günlərini ruhi xəstəxanada keçirmək istəmədiyindən o, Eduardla birgə qaçaraq şəhərin bahalı bir restoranında yeyib-içir, əylənirlər. Səs-küy saldıqları üçün restorandan qovulan cütlük şəhərin kənarındakı təpəyə dırmaşırlar. Təpədə hər ikisini yuxu tutur. Səhər açılanda isə Veronika…",
+      "bookPhoto": "https://static.insales-cdn.com/images/products/1/2957/877259661/511d7a666a3c0df98e7854dd0ac2e5b7.jpg",
+      "bookGenre": "Roman",
+      "bookPrice": 6.99,
+      "bookYear": 1998,
+      "bookPage": 213,
+      "bookCount": 100
+    },
+
+    {
+      "bookID": 19,
+      "bookName": "Sirlərimiz qədər xəstəyik",
+      "bookAuthor": "Bülent Demircioğlu",
+      "bookDescription": " Xəstəlik ruhumuzun fəryadından başqa bir şey deyil, bəs niyə biz israrla dərmanı yalnız bədəndə axtarırıq? Ənənəvi tibb bu gün möhtəşəm görüntüləmə texnikaları, mükəmməl testləri və qeyri-adi diaqnozları ilə işimizi çox asanlaşdırsa da, bədəni bir maşın kimi gördüyü üçün enerji bədənimizi görməzlikdən gəlir. Bununla belə, bədənimiz emosional, zehni və mənəvi münaqişələrlə dolu bir bütövdür. Fiziki xəstəliyin yalnız bədənlə əlaqəli olduğunu düşünmək həm həkimlər, həm də xəstələr üçün əskik bir yanaşmadır. Bədəndə baş verən xəstəlik ruhun müvafiq hissəsindən başlayır, sonra mesaj olaraq bədənə ötürülür. Bu mesaj görünəndə biz buna “xəstəlik” deyirik. Dərmanları rədd etmək mümkün deyil, amma enerji bədəninin dərmanlardan qat-qat təsirli olduğu və enerji bədəninin sağalmasından faydalanmaq üçün heç bir qiymət ödəmək lazım olmadığı indi aydındır. Dr. Bülent Dəmircioğlu 'Sirlərimiz qədər xəstəyik' kitabında enerji bədəninizi ən sadə və ən praktik şəkildə necə sağaltacağınızı izah edir. Sıfırlama üsulu ilə o, hər bir xəstəliyə toxunaraq ruhun iş prinsipini, travma kodlarını, onların idarə olunmasını və xaric edilməsini izah edir və özünü sağaltmağın vahid yollarını çatdırır: 'Qismət'",
+      "bookPhoto": "https://static.insales-cdn.com/images/products/1/3144/693259336/0001957979001-1.jpg",
+      "bookGenre": ["Psixologiya", "Özünüinkişaf"],
+      "bookPrice": 23.2,
+      "bookYear": 2006,
+      "bookPage": 339,
+      "bookCount": 100
+    },
+
+    {
+      "bookID": 20,
+      "bookName": "Fərdi ətalətlə mübarizə",
+      "bookAuthor": "Mümin Sekman",
+      "bookDescription": " Ətalət istəksizlik ilə yorğunluğun, tənbəllik ilə depressiya­nın, yavaşlıq ilə bezginliyin, xəyal qırıqlığı ilə laqeydliyin, tükən­mişlik ilə reaksiyasızlığın ortaya qarışıq olaraq bir insanın ruhunu ələ keçirməsidir. Bu kitab ətalətli ruh halından qurtulmaq istəyənlər üçündür. Ətalətli halını analiz edən və ətalətlə mübarizə yollarını göstərən, dilimizdə ilk və tək kitabdır.",
+      "bookPhoto": "https://static.insales-cdn.com/images/products/1/5307/190682299/Mumin_Sekman_Qapaq_CTP.jpg",
+      "bookGenre": ["Psixologiya", "Özünüinkişaf"],
+      "bookPrice": 4.99,
+      "bookYear": 2006,
+      "bookPage": 159,
+      "bookCount": 100
+    },
+
+    {
+      "bookID": 21,
+      "bookName": "Ətriyyatçı",
+      "bookAuthor": "Patrik Züskind",
+      "bookDescription": "Qəhrəmanın fizioloji şikəstliyi fonunda XVIII əsr Fransasının, eləcə də Avropanın sirlərindən danışan roman insan cildli əcaib Jan-Batist Qrenuyun bütün dünyanı və onun qanunlarını alt-üst etməsinin səbəbini qoyur ortaya",
+      "bookPhoto": "https://static.insales-cdn.com/images/products/1/3925/171069269/834f205a7b473fcee04431dee9f30b68.jpg",
+      "bookGenre": "Roman",
+      "bookPrice": 6,
+      "bookYear": 1985,
+      "bookPage": 295,
+      "bookCount": 100
+    },
+
+    {
+      "bookID": 22,
+      "bookName": "Ölmədən  əvvəl ən çox peşman olduğumuz 5 şey",
+      "bookAuthor": "Bronnie Ware",
+      "bookDescription": "Çox sevdiyim bu gözəl insanların tapdığı sülh, son anlarımızı gözləmədən indi tapa biləcəyimiz bir şeydir. Həyatınızı dəyişdirməyi, cəsarətli olmağı və öləndə peşman olmamağınızı təmin edəcək ürəyinizə sadiq bir həyat sürməyi seçə bilərsiniz. Özünüzə verə biləcəyiniz ən böyük hədiyyə azadlığınızdır. Bronnie Ware Avstraliyada bankda işləyən adi bir insandır. Bir gün bütün həyatını dəyişəcək bir qərar verir və bütün əşyalarını satır, işini atıb maşınına minir və istədiyi yerə səyahət etməyə başlayır. O, avtomobilində yaşayır və getdiyi şəhərlərdə nə tapırsa, onu da görür. Nəhayət, bir gün o, ölüm çarpayısında olan xəstələrə qulluq etməyə başlayır. Xəstələr Bronnie ilə bağlayır; Onunla həyatları haqqında söhbət edir və ölməzdən əvvəl ən böyük peşmanlıqlarını izah edirlər. Bronnie Ware bloqunda xəstələrinin peşmançılıqlarını yazdıqdan sonra tezliklə üç milyon izləyicisi oldu və o, xahişi ilə öz təcrübələrini kitaba çevirdi.",
+      "bookPhoto": "https://static.insales-cdn.com/images/products/1/3647/649678399/0000000417088-1.jpg",
+      "bookGenre": ["Psixologiya", "Özünüinkişaf"],
+      "bookPrice": 9.8,
+      "bookYear": 2023,
+      "bookPage": 304,
+      "bookCount": 100
+    },
+
+    {
+      "bookID": 23,
+      "bookName": "Ferrarisini satan rahibdən həyat dərsləri - Ailə müdrikliyi",
+      "bookAuthor": "Robin Şarma",
+      "bookDescription": "Kim xoşbəxt ailə arzulamaz ki?! Kim övladları üçün xoşbəxtlik diləməz?! Lakin ailə həyatını əsl qaydada azad, parlaq və dolğun etməyi bilən çox az insan var. Bu maraqlı kitabda Robin Şarma ailə xoşbəxtliyinin vacib sirrini açır: Ailə fərdlərinin hər biri hər şeydən öncə özünü inkişaf etdirməli və təkmilləşdirməlidir! Bu kitabda yazılan universal prinsiplər, məşqlər, təcrübələr bütün ailə üzvlərinə sevimli və rahat olacaq həqiqi xoşbəxt ailəni qurmağa, eyni zamanda uşaqlarını azad ruhlu, azad fikirli və yaradıcı tərbiyə etməkdə kömək edəcək.",
+      "bookPhoto": "https://static.insales-cdn.com/images/products/1/174/172417198/Robin-Sharma-Aile-Mudrikliyi-Esas-300x400.jpg",
+      "bookGenre": ["Psixologiya", "Özünüinkişaf"],
+      "bookPrice": 6.99,
+      "bookYear": 2000,
+      "bookPage": 255,
+      "bookCount": 100
+    },
+
+    {
+      "bookID": 24,
+      "bookName": "Balaca şahzadə",
+      "bookAuthor": "Antuan de Sent-Ekzüperi",
+      "bookDescription": "Balaca şahzadə” təyyarəsi nasazladığına görə səhraya enməyə məcbur olan bir pilotun – elə həyatda da təyyarəçi olan müəllifin fantastik romanıdır. O, təyyarəni düzəldəndə başqa planetdən olan Balaca şahzadə ilə qarşılaşır. Öz biradamlıq planetini tərk edib səfərə çıxan və altı planetə baş çəkib yeddinciyə – Yerə ayaq basan Balaca şahzadə burada pilotla tanış olur. Pilot təyyarəsini düzəldə-düzəldə Balaca şahzadənin başına gələnləri öyrənir. Məlum olur ki, təkcə pilot deyil, planeti və orada qoyub gəldiyi gül üçün darıxan Balaca şahzadə də evinə qayıtmaq istəyir.",
+      "bookPhoto": "https://static.insales-cdn.com/images/products/1/7550/204799358/0000000628979-1.jpg",
+      "bookGenre": "Fantastika",
+      "bookPrice": 2.99,
+      "bookYear": 1943,
+      "bookPage": 125,
+      "bookCount": 100
+    },
+
+    {
+      "bookID": 25,
+      "bookName": "O qurbağanı ye",
+      "bookAuthor": "Brian Tracy",
+      "bookDescription": "Görməli olduğunuz bütün işləri görmək üçün heç zaman kifayət qədər vaxt olmur. Siz, şəxsi və işlə bağlı öhdəliklər, cavabınızı gözləyən saysız elektron məktublar, sosial media, layihələr, imkan tapan kimi oxumağı planlaşdırdığınız jurnallar və kitabların məngənəsində sıxılmısınız. Və bütün məsələ ondadır ki, siz heç zaman imkan tapa bilməyəcəksiniz. Heç zaman işlərinizin öhdəsindən gələ bilməyəcəksiniz. Arzuladığınız kitabları, jurnalları oxumağa, elektron mək­tubları cavablandırmağa və əyləncəyə sərf etməyə boş vaxtınız olmayacaq. Və vaxt problemini daha məhsuldar olmaqla həll edəcəyinizə  ümid bəsləməyin. Fərdi məh­suldarlığa dair nə qədər metoda yiyələnməyinizin əhə­miy­yəti yoxdur, həmişə görməli olduğunuz işlər görə bilə­cəyinizdən çox olacaqdır. Vaxtınıza və həyatınıza nəzarət etməyə yalnız düşüncə tərzinizi, işə yanaşmanızı və sonsuz öhdəçiliklərə münasibətinizi dəyişməklə nail ola bilərsiniz. Tapşırıq və işlərinizə, müəyyən işlərdən imtina və daha dəyərli işlərə daha çox diqqət ayırdığınız qədər nəzarət edə bilərsiniz. Bu kitab sizin iş bacarığınıza və əldə edə biləcəyiniz nəticələrə güclü təsir edəcək. O qurbağanı yeyin – iş üsulunuzu imtahana çəkəcək, uğur qazanmaq mütləq olan daxili-intizamı izah edir və insanların yubatmaya yol verməklərinin səbəbini araşdırır. Sonra isə, məhsuldarlığınızı necə artıra biləcəyinizi sadə dildə izah edir.",
+      "bookPhoto": "https://static.insales-cdn.com/images/products/1/4128/172421152/Brayan-Treysi-Qurbaga-300x400.jpg",
+      "bookGenre": ["Psixologiya", "Özünüinkişaf"],
+      "bookPrice": 4.99,
+      "bookYear": 2001,
+      "bookPage": 126,
+      "bookCount": 100
+    },
+
+    {
+      "bookID": 26,
+      "bookName": "Pereyra iddia edir",
+      "bookAuthor": "Antonio Tabukki",
+      "bookDescription": "Bu əsər, zülmə, ədalətsizliyə, özbaşınalıq və avtoritorizmə qarşı mübarizənin ən parlaq nümunəsidir. Əsərin qəhrəmanı Pereyra adicə jurnalistdir, onu mə­dəniyyət səhifəsindən, ədəbiyyatdan, əcnəbi yazı­çıla­rın əsərlərini tərcümə etməkdən başqa heç nə maraq­landırmır. Ancaq iş elə gətirir ki, ortayaşlı, səhhətində problemlər olan bu vicdanlı adam özü də istəmədən siyasi hadisələrin axarına düşür, idealist gənclərə kömək edir. Əsərdə bir epizodda Pereyra ölkənin iki tanınmış ziyalısının Lissabonu tərk etmək barədə danışıqlarını eşidir və onlara yaxınlaşıb deyir: «Siz xalqa lazımsınız». Bununla Pereyra onların ölkəni tərk etməsinə qarşı çıxır, ancaq bu hadisədən qısa bir müddət sonra o özü ölkəni tərk etməli olur. O, seçim qarşısında qalır: ya gözünün qabağında öldürülmüş gənc fəalın qətlinə göz yumaraq, susaraq ölkəsində qalmalıdır, ya da xarici ölkəyə sığınaraq Salazar diktaturasının amansızlığı barədə dünyaya xəbər verməli və vətənindən didərgin düşməlidir. Pereyra ikincini seçir. O, həqiqəti deməyi vətəndə yaşamaqdan üstün tutur. Müəllif bu əsərində oxuculara həqiqətin, prinsipiallığın hər şeydən üstünlüyünü, zülmə, ədalətsizliyə qarşı hamının nəsə bir şey etməli olduğunu aşılayır.",
+      "bookPhoto": "https://www.qanun.az/images/news/compressed/2020-01-27-14-06-051580119565.jpg",
+      "bookGenre": "Roman",
+      "bookPrice": 5,
+      "bookYear": 1993,
+      "bookPage": 176,
+      "bookCount": 100
+    },
+
+    {
+      "bookID": 27,
+      "bookName": "Getməliyəm yoxsa qalmalıyam",
+      "bookAuthor": "Hakan Mengüç",
+      "bookDescription": "Dört bir yanımız, dünyanın öz yerindən döndüyünə inanan narsislərlə çevrilir. İşin garibi, bir narsise aşiq olmaq çox asan... Çünki onlar üstün zekâları, manipulyasiya kabiliyetleri ve karizmalarıyla yeryüzünün en çekici aşıkları... Nə yazıq ki sevmək yerinə, seviyor kimi yapabilme ustalıqları yadsınamayacak qədər güclü... Hakan Mengüç'ün kaleme aldığı GİTMELİ MİYİM KALMALI MIYIM adlı bu kitab romancılığın ezberlerini bozarak yepyeni bir okuma disiplini vaat etməsinin yanı sıra, narsisizmin kölgəsində yaşanan huzursuz və mutsuz münasibətlərin psikolojik dehlizlerine inerek günümüz münasibətlərinə ayna tutuyor. Bu kitapta bir narsisin yarattığı alevlerle dolu sahte cennetten nasıl kaça bilirin ve giderek yok edilmekte olan özgüveninizi necə geri kazana bileceğiniz ipuçlarıyla da karşılaşırsınız. Çünki bu sadece bir roman deyil, eyni zamanda bir qurtuluş yolu... Aleyna ve Ertan'ın “aşk kimi” görünən savaşında özünüzdən çox şey bulacaqsınız.",
+      "bookPhoto": "https://cdn.dsmcdn.com/mnresize/1200/1800/ty1560/product/media/images/ty1561/prod/QC/20240920/15/1c0d4535-6ccd-388e-8213-18b56303439e/1_org_zoom.jpg",
+      "bookGenre": "Klassika",
+      "bookPrice": 15.36,
+      "bookYear": 2021,
+      "bookPage": 279,
+      "bookCount": 100
+    },
+
+    {
+      "bookID": 28,
+      "bookName": "Ümid külü",
+      "bookAuthor": "Çingiz Abdullayev",
+      "bookDescription": "Görməli olduğunuz bütün işləri görmək üçün heç zaman kifayət qədər vaxt olmur. Siz, şəxsi və işlə bağlı öhdəliklər, caOrta Asiya respublikalarından birinə aid olan qızıl yüklü təyyarə İsveçrəyə uçur. Uçuş müddətində o birdən-birə yox olur. Təyyarənin tapılması üçün peşəkar axtarış qrupu yollanır. “Qızıl” təyyarəsinin itməsi haqda rus mafiyası da xəbər tutur. Axtarışa əfsanəvi analitik-kriminalist Dronqo qoşulur…",
+      "bookPhoto": "https://static.insales-cdn.com/images/products/1/5029/171070373/43987f784b2c867c624c315c81b6931e.jpg",
+      "bookGenre": "Dedektiv",
+      "bookPrice": 9,
+      "bookYear": 1997,
+      "bookPage": 445,
+      "bookCount": 100
+    },
+
+    {
+      "bookID": 29,
+      "bookName": "Mavi mələklər",
+      "bookAuthor": "Çingiz Abdullayev",
+      "bookDescription": "BMT-nin gizli əməkdaşlarını “mavi mələklər” adlandırırlar. Onların əsl adı heç kimə məlum deyil, hətta özləri belə öz adlarını unudublar. Peşəkar ekspert və analitik – Dronqo buna parlaq nümunədir. O, narkotik alverçilərinin izi ilə öz qrupuyla birgə yer kürəsinin müxtəlif bölgələrinə səfərlər eləyir və öz məqsədinə yaxınlaşdıqja o bir o qədər təhlükəli olur. Onun ən əziz insanı, ən yaxın dostları həlak olur…",
+      "bookPhoto": "https://static.insales-cdn.com/images/products/1/5228/171070572/5b046365effeaa77bfc39228abb0f117.png",
+      "bookGenre": "Dedektiv",
+      "bookPrice": 6.5,
+      "bookYear": 1988,
+      "bookPage": 384,
+      "bookCount": 100
+    },
+
+    {
+      "bookID": 30,
+      "bookName": "Böyük dördlük",
+      "bookAuthor": "Aqata Kristi",
+      "bookDescription": "Uzun müddətdən bəri Argentinada yaşayan Hastinqs Erkül Puaro ilə görüşmək üçün İngiltərəyə gedir. Ancaq Puaro da Argentinaya hazırlaşır, çünki orada ona istintaq aparmaq üçün yaxşı qonorar təklif ediblər. O, Hastinqsə istintaqın hansısa “Böyük Dördlük” ilə əlaqədar olduğunu xəbər verir. Ancaq gözlənilməz bir hadisə Puaronun səfərini yarımçıq qoyur… Puaro və Hastinqs İngiltərədə çinlilər barədə ən çox məlumatı olan adamın yanına gedirlər. Onlar “Böyük Dördlüyün” beyin mərkəzi olan Li Çanq Yen haqda hər şeyi öyrənmək istəyirlər. Puaro və Hastinqs müəmmalı hadisələr burulğanına düşür, dəfələrlə ölümlə üz-üzə gəlirlər. Cinayətkarlar Hastinqsi aldadaraq, arvadını oğurladıqlarını deyirlər və onu girov saxlayıb, Puaronu aradan götürmək istəyirlər. Romanda Erkül Puaronun əkiz qardaşı Axil Puaro surətinə də rast gəlinir, amma sonradan məlum olur ki, bu adam elə Erkül Puaronun özüdür.",
+      "bookPhoto": "https://static.insales-cdn.com/images/products/1/4410/198799674/9019599.jpg",
+      "bookGenre": "Dedektiv",
+      "bookPrice": 4.99,
+      "bookYear": 1927,
+      "bookPage": 223,
+      "bookCount": 100
+    },
+
+    {
+      "bookID": 31,
+      "bookName": "Əlifba sırası ilə qətl",
+      "bookAuthor": "Aqata Kristi",
+      "bookDescription": " “Əlifba sırası ilə qətl” Aqata Kristinin əfsanəvi romanlarından biridir. Bu romanda Aqata Kristi tanınmış centlmen və dahi detektiv Erkül Puaronun daha bir sərgüzəştindən bəhs edir. Bir-biri ilə əlaqəsi olmayan insanların dalbadal silsilə qətlləri törədilir. Bütün bu qətllərin hamısında qurbanların adları və cinayət törədilən yer ingilis əlifbası sırası üzrə seçilir. Cinayətin yerini də, vaxtını da qatil əvvəlcədən özü seçir və detektivə bildirir, ancaq fərasətli Puaro daima cinayət baş verən yerə gecikir. Bu rəqabət Puaronun qatilin corab satan ticarət agenti olduğunu təxmin edənə qədər davam edir.",
+      "bookPhoto": "https://static.insales-cdn.com/images/products/1/4997/198800261/3262648.jpg",
+      "bookGenre": "Dedektiv",
+      "bookPrice": 5.99,
+      "bookYear": 1936,
+      "bookPage": 272,
+      "bookCount": 100
+    },
+
+    {
+      "bookID": 32,
+      "bookName": "Namərdin üslubu",
+      "bookAuthor": "Çingiz Abdullayev",
+      "bookDescription": "Biznes başçıları və satqın siyasətçilər Rusiyanın bitib-tükənməz sərvətlərini hərraca çıxararsa, daha onların gözünə heç nə görünməz. İnsan ovu, kobud oğurluqlar, həyasız yalan və qəddar qətllər, dövlət sərhədləri tanımayan casus şəbəkəsi – qarşıya qoyulmuş məqsədlər üçün istənilən üsullar yarayar. Amma hər zaman namərdlərin yoluna onların fitnə-fəsadından qorxub-çəkinməyən kəslər də çıxır. «Tək əldən səs çıxmaz…» – nə olar, baxarıq, qərarı müstəqil ekspert Dronqo verəcək…",
+      "bookPhoto": "https://static.insales-cdn.com/images/products/1/5344/171070688/13cb4d99d4011491db0898bf682f81d8.jpg",
+      "bookGenre": "Dedektiv",
+      "bookPrice": 6.5,
+      "bookYear": 2005,
+      "bookPage": 326,
+      "bookCount": 100
+    },
+
+    {
+      "bookID": 33,
+      "bookName": "Amok",
+      "bookAuthor": "Stefan Sveyq",
+      "bookDescription": "Amok, bir həkim olaraq ehtiyacı olan bir insana əl uzatmaq üçün vicdanlı öhdəliyi ilə öz mürəkkəb duyğuları arasında ilişib qalan bir insanın hekayəsidir. Hollandiyanın Ost-Hind adalarında işləyən həkim çətin vəziyyətdə yanına gələn çox zəngin qadının “kömək” istəyini rədd edir. Çünki o, qadının məğrur və hesablı rəftarına çox qəzəbləndi və qüruruna boyun əydi. Halbuki təhlükə altında olan insan həyatıdır. Tezliklə peşmanlıq məngənəsinə düşür. Qadına kömək etmək fikrində olan həkim, Malayziya xalqında rast gəlinən ölümcül dəlilik növü olan amok qızdırmasının təsiri altına düşür.",
+      "bookPhoto": "https://static.insales-cdn.com/images/products/1/3290/212487386/0000000726637-1.jpg",
+      "bookGenre": "Klassika",
+      "bookPrice": 2.4,
+      "bookYear": 1922,
+      "bookPage": 60,
+      "bookCount": 100
+    },
+
+    {
+      "bookID": 34,
+      "bookName": "Əli və Nino",
+      "bookAuthor": "Qurban Səid",
+      "bookDescription": "Əsərdəki hadisələr Rusiya inqilabı, müstəqil və demokratik Azərbaycanın qurulması və Qızıl Ordunun Bakını işğal etdiyi dövrləri əhatə edir. Hadisələrin cərəyan etdiyi əsas məkan isə 'tərəqqi etmiş' Qərb və 'geridə qalmış' Şərqin qovuşduğu Bakıdır. Tarixin təlatümlü hadisələri fonunda Müsəlman Əli və Xristian Ninonun məhəbbət hekayəsi heç bir oxucunu laqeyd qoymayacaq.",
+      "bookPhoto": "https://static.insales-cdn.com/images/products/1/5847/626300631/Ali_ve_Nino_kapak_2022.png",
+      "bookGenre": "Roman",
+      "bookPrice": 7.49,
+      "bookYear": 1937,
+      "bookPage": 288,
+      "bookCount": 100
+    },
+
+    {
+      "bookID": 35,
+      "bookName": "Yad",
+      "bookAuthor": "Albert Kamü",
+      "bookDescription": "Hər şey çox qısa bir zamanda baş verir. Ortatəbəqəli bir fransız təsadüf nəticəsində Əlcəzairdə bir ərəbi öldürür. O özünü addım-addım ölümə aparan prosesi laqeyd şəkildə izləyir. Roman boyu başqalarının adı xatırlandığı halda, əsərin qəhrəmanının adını belə öyrənə bilmirik. Bəli, burada Kafkanı xatırlamaq lap yerinə düşür. “Yad” müəllifin adı çəkilən kimi ilk ağıla gələn əsərdir. O, təkcə ədəbi yox, həm də fəlsəfi düşüncədə yeni istiqamət yaratmış nümunələrdən sayılır.",
+      "bookPhoto": "https://www.qanun.az/images/news/compressed/2022-12-03-13-02-391670058159.jpg",
+      "bookGenre": "Klassika",
+      "bookPrice": 5.99,
+      "bookYear": 1942,
+      "bookPage": 127,
+      "bookCount": 100
+    },
+
+    {
+      "bookID": 36,
+      "bookName": "Çevrilmə",
+      "bookAuthor": "Franz Kafka",
+      "bookDescription": " 'Çevrilmə' novellası da metafora baxımından zəngin və çoxmənalı əsərdir: burada az qala, hər cümləni yüz yerə yozub yüz nəticə çıxarmaq mümkündür. Ancaq bir məsələ tam şübhəsizdir: itaətkar oğulu – üzüyola qulluqçunu əcaib hə­şərata çevirib onu doğma ailə mühitinə atmaqla Kafka biganəliyin, fərdin faciəvi və sonsuz tənhalığının gerçək surətini yaratmışdır.",
+      "bookPhoto": "https://www.qanun.az/images/news/compressed/2022-02-15-12-01-311644912091.jpg",
+      "bookGenre": "Klassika",
+      "bookPrice": 4.99,
+      "bookYear": 1912,
+      "bookPage": 103,
+      "bookCount": 100
+    },
+
+    {
+      "bookID": 37,
+      "bookName": "Prezident ovu",
+      "bookAuthor": "Çingiz Abdullayev",
+      "bookDescription": "Dronqo öz rəhbərliyindən son dərəcə çətin bir tapşırıq alır: sızan məlumatlara görə, Latın Amerikasında fəaliyyət göstərən cinayətkar təşkilat şərti «X günü» adlı dəhşətli bir aksiya hazırlamaqdadır. Lakin təşkilatın konkret harda yerləşdiyi və aksiyanın nə məqsəd güddüyü, onun haçan və hansı ölkədə həyata keçiriləcəyi dəqiq bilinmir. Bu səbəbdən də Dronqo İnterpolun məxfi agentlərinin müşayiəti altında Riçard Saunders adıyla fəaliyyətə başlamalı olur. Riçard Saundersə müxtəlif ölkələrdə çalışmaq və təşkilatın izinə düşüb planlaşdırılan aksiyanın qarşısını almaq lazım gəlir. İlk baxışda nə qədər ağlasığmaz görünsə də, yüksək peşəkarlığa malik olan Dronqo bu çətin vəzifəni məharətlə yerinə yetirir. O, narkomafiya şəbəkəsinin maliyyə dəstəyi hesabına Çilinin ucqarında «Şeytan legionu» adı altında fəaliyyət göstərən terror düşərgəsinin mövcud­lu­ğunu üzə çıxarır və Nyu-Yorkda keçiriləcək BMT Baş Assambleyasının iclasında dünyanın superdövlətlərinin – ABŞ-ın və SSRİ-nin – bir neçə başçısına qarşı hazırlanmış sui-qəsdin qarşısını almağa müvəffəq olur. Təbii ki, bu asan başa gəlmir. Prezident ovuna çıxan və qanlı caynaqları hər yerə çatan narkomafiya öz niyyətini yerinə yetirmək məqsədilə Dronqonun ölümünə hökm verir və peşəkar muzdlu qatillər dünyanın hər bucağında – Stokholmda, Vyanada, Afinada, Romada, Rio-de-Janeyroda, Asunsonda, Santyaqoda, Buenos-Ayresdə, Nyu-Yorkda Dronqonun özünün ovuna çıxırlar. Buna görə də müxtəlif adlar altında çalışmağa məcbur qalan Dronqo bir neçə dəfə ölüm təhlükəsindən möcüzə nəticəsində xilas olur. Amma xilas olurmu? Aksiyanın qarşısı alınır, terrorçuların «X günü» planı ifşa olunur və qatillər hamısı məhv edilir. Sanki hər şey başa çatmış kimidir. Elə bu zaman BMT Katibliyinin binası qarşısındaca naməlum qadın Dronqoya üç atəş açır. Dronqo ölümcül vəziyyətdə xəstəxanaya çatdırılır. Amma ölümdən xilas ola bilirmi? Müəllif sualın cavabını qəsdən gizli saxlayır və bu müəmma əslində əsərin daha da maraqla oxunmasına xidmət edir.",
+      "bookPhoto": "https://static.insales-cdn.com/images/products/1/5309/171070653/dd1a56f07e40f2b3a41bfa642713027b.jpg",
+      "bookGenre": "Dedektiv",
+      "bookPrice": 5,
+      "bookYear": 2000,
+      "bookPage": 263,
+      "bookCount": 100
+    },
+
+    {
+      "bookID": 38,
+      "bookName": "Transilvaniya səfəri",
+      "bookAuthor": "Çingiz Abdullayev",
+      "bookDescription": "Cinayət məsələləri üzrə dünyaca məşhur ekspert Dronqo Rumıniyaya beynəlxalq konfransa gəlir. Artıq ikinci gün öyrənir ki, sammitin bir neçə iştirakçısına təhlükədən bəhs edən məktub göndərilib. Naməlum şəxs onları bilinməyən təhlükə barədə xəbərdar edir və üstəlik işarə vurur ki, bu təhlükə qraf Drakulanın ruhu ilə əlaqəlidir. Demək olar ki, hamı və Dronqonun özü də güman edir ki, bu, sadəcə, axmaq bir oyundur. Lakin forumun iki qonağı həlak olanda ekspert fikrini dəyişir və məsələ ilə ciddi şəkildə məşğul olmağa başlayır…",
+      "bookPhoto": "https://static.insales-cdn.com/images/products/1/5391/171070735/1ac42806460d2c9549b586ebb2955939.jpg",
+      "bookGenre": "Dedektiv",
+      "bookPrice": 6.5,
+      "bookYear": 2000,
+      "bookPage": 299,
+      "bookCount": 100
+    },
+
+    {
+      "bookID": 39,
+      "bookName": "Yeni cəngavər qadınların qəbiləsi",
+      "bookAuthor": "Çingiz Abdullayev",
+      "bookDescription": "Tanınmış iş adamı Paşkov köhnə Yeni ili keçirmək məqsədilə şəhərdən kənar bağ evində qonaqlarını yığır – demək olar ki, yalnız yaxın adamlarını. Amma ziyafət başlanmadan əvvəl onu öz otağında bıçaqla qətlə yetirilmiş vəziyyətdə tapırlar. Ən əlverişlisi təsadüfi qətldən şübhələnməkdir – içəri girən oğruya maneə törədən Paşkov onun tərəfindən bıçaqlanır və cani qaçıb gedir. Lakin bu işin araşdırılması məşhur mütəxəssis Dronqoya həvalə olunur və o aydınlaşdırır ki, həmin gecə bağ evində yığışan 'qatı dostlar' kimi adlandığımız insanlar olub –sən demə onları bir-birilərindən olduqca çox köhnə ədavətlər ayırırmış. Bu isə o deməkdir iş belə tezliklə bağlanmayacaq…",
+      "bookPhoto": "https://static.insales-cdn.com/images/products/1/5284/171070628/f46b0da4a1627f77134d2813c7862bad.jpg",
+      "bookGenre": "Dedektiv",
+      "bookPrice": 5,
+      "bookYear": 2002,
+      "bookPage": 280,
+      "bookCount": 100
+    },
+
+    {
+      "bookID": 40,
+      "bookName": "Andorra sevməli və ölməli yerdir",
+      "bookAuthor": "Çingiz Abdullayev",
+      "bookDescription": "Dünyanın səkkiz ölkəsindən - Amerika,Rusiya,Fransa,Almaniya,Çin,İsrail,İran və İngiltərə kəşviyyatının peşəkar agentləri çox mühüm bir tapşırıq əsasında balaca Andorraya yıgışıblar.Əhalinin sayı cəmi otuz altı min olan bu gözəl ölkənin sakit və dinc paytaxtındakı oteldə yaşayırlar.Amma Andorraya gəldikləri elə ikinci günün axşamı İngiltərə kəşviyyatının təcrübəli agenti Mortimerin öz nömrəsində çox müəmmalı şəkildə zəhərləndiyi məlum olur.Ertəsi gün ikinci dəhşətli hadisə baş verir - Almaniya kəşviyyatının agenti frau Şerner öz çarpayısında bogulmuş vəziyyətdə tapılır. Nə baş verir? Bu müəmmalı qətlləri kim törədir? Hadisə yerində heç bir iz buraxmayan peşəkar qatil kimdir ? Oxucu bu sualların cavabını romanla tanışlıqdan sonra biləcək.",
+      "bookPhoto": "https://static.insales-cdn.com/images/products/1/5406/171070750/f78ba5189e66652bb40b8668f75b5231.jpg",
+      "bookGenre": "Dedektiv",
+      "bookPrice": 5.5,
+      "bookYear": 1999,
+      "bookPage": 272,
+      "bookCount": 100
+    },
+
+    {
+      "bookID": 41,
+      "bookName": "Axtarış",
+      "bookAuthor": "Sadə Nəsibli",
+      "bookDescription": "Bir gün evdə, çox sakit bir halda divanda əyləşmişdim. Bazar ertəsi idi. İş günü olmasına baxmayaraq mən işə getməmişdim. Çünki səhər yuxudan oyanandan başım ağrıyırdı. İşdən, şəxsi işim olduğu üçün, icazə almağa-filan ehtiyac yox idi. Sadəcə köməkçimə zəng edib dedim ki, bu gün işdə olmayacam, nəsə bir görüş-filan varsa təxirə salsın. Tək divanda əyləşib fikirləşirdim. Amma baş ağrısı çox da fikirləşməyə qoymurdu. Televizoru yandırmağı qərara aldım. Bəlkə fikirlərimi, haradasa ağrını özümdən yayındırmaq üçün. Televizorun pultunu əlimə alıb, qırmızı düyməni sıxdım. Həmişə birinci öz, yerli kanallarımıza baxıram ki, görüm nə var-nə yox, sonra keçirəm xarici kanallara baxmağa. Bu dəfə də elə oldu.",
+      "bookPhoto": "https://static.insales-cdn.com/images/products/1/4884/269521684/AXTARISH__1_.jpg",
+      "bookGenre": "Roman",
+      "bookPrice": 5,
+      "bookYear": 2016,
+      "bookPage": 255,
+      "bookCount": 100
+    },
+
+    {
+      "bookID": 42,
+      "bookName": "Vadi",
+      "bookAuthor": "Aqata Kristi",
+      "bookDescription": "Aqata Kristi məşhur İngiltərə yazıçısı, detektiv janrının kraliçasıdır. Onun əsərləri dünyanın 100-dən çox dilinə tərcümə olunub. Bəşəriyyət tarixində əsərləri ən çox çap olunan yazıçıdır. Aqata Kristinin 60 detektiv romanı, 6 psixoloji romanı, 19 hekayə almanaxı çap olunub, 16 pyesi London səhnələrində tamaşaya qoyulub. Həmin məşhur əsərlərin sırasında “Vadi” (ing. Hollow) detektiv romanı da hadisələrin qurulmasına, obrazların fərqliliyinə görə yazıçının yaradıcılığında olduqca önəmli yer tutur. Bu əsər ilk dəfə 1946-cı ildə Britaniyada “Collins Crime Club” nəşriyyatında, eyni zamanda da ABŞ-ın “Dodd, Mead and Company” nəşriyyatında çap olunub. Bu roman da Aqata Kristinin Erkül Puaro haqqında olan əsərləri seriyasındandır.",
+      "bookPhoto": "https://www.qanun.az/images/news/compressed/260x400/2019-06-01-15-28-061559388486.png?v=1",
+      "bookGenre": "Dedektiv",
+      "bookPrice": 5.4,
+      "bookYear": 1946,
+      "bookPage": 255,
+      "bookCount": 100
+    },
+
+    {
+      "bookID": 43,
+      "bookName": "Nalayiq lətifə",
+      "bookAuthor": "Fyodor Dostoyevski",
+      "bookDescription": "1862-ci ildə dərc olunan “Nalayiq məzəli əhvalat” Dostoyevskinin satirik üslubda yazılmış əsəridir. Əsər dövlət müşaviri, 43 yaşlı general İvan İliç Pralinskinin “humanizm” göstərmək ideyası ilə öz işçisinin toyuna gəlməsindən və bu “humanizm”in onu necə rüsvay edərək gülünc vəziyyətə salmasından bəhs edir. Əsərdə eyni zamanda Pseldonimovun timsalında “kiçik adam”ların həyat şəraiti, toy atmosferi və Peterburqun “alt” təbəqəsinin yaşam tərzi acınacaqlı və dəhşətli tərzdə böyük ustalıqla ifşa olunur.",
+      "bookPhoto": "https://static.insales-cdn.com/images/products/1/6419/217798931/Dostoyevski_Nalayiq_Anekdot_mini_Esas.png",
+      "bookGenre": "Klassika",
+      "bookPrice": 2.99,
+      "bookYear": 1862,
+      "bookPage": 87,
+      "bookCount": 100
+    },
+
+    {
+      "bookID": 44,
+      "bookName": "Saxta kupon",
+      "bookAuthor": "Lev Tolstoy",
+      "bookDescription": "Bu kitab böyük rus yazıçısı Lev Tolstoyun, bir cinayətin – saxta kuponlar istehsal etməyin, necə silsilə qanlı cinayət və ölümlərə aparması haqda məşhur povestidir. Bir saxta kupon neçə-neçə ailənin “faciəsinə” çevrildi. Povest bu gün də aktual olan mövzuları özündə əks etdirir. “...Qəribə əhvalatdır. Cəllad tapa bilməyiblər. Mosk­­vada biri var imiş, o da, oğlumun dediyinə görə, İncili oxuyandan sonra deyib ki, adam öldürə bilmərəm. Özü qətl üstündə katorqa işlərinə məhkum edilmişdir, indi isə birdən-birə qanunla adam öldürə bilmir. Ona deyiblər ki, qamçı ilə səni döyərik. Döyün, deyə cavab verib, fərq etməz, öldürə bilməyəcəyəm”.",
+      "bookPhoto": "https://static.insales-cdn.com/images/products/1/1876/311265108/2020-04-20-18-15-491587392149.jpg",
+      "bookGenre": "Klassika",
+      "bookPrice": 4.49,
+      "bookYear": 1889,
+      "bookPage": 112,
+      "bookCount": 100
+    },
+
+    {
+      "bookID": 45,
+      "bookName": "Bəyaz gecələr",
+      "bookAuthor": "Fyodor Dostoyevski",
+      "bookDescription": "Romanın baş qəhrəmanı – kimsəsiz və utancaq bir xəyalpərəstdir. Bəyaz gecələrin birində xəyalpərəst oğlan Nastya adlı bir qızla tanış olur, zaman keçdikcə ona vurulur. Amma Nastya ona dost və qardaş gözü ilə baxır. Qız ona keçmiş monoton həyatından, ilk məhəbbətindən və sevdiyi insanın onu necə tərk etdiyindən bəhs edir. Xəyalpərəst oğlan Nastyaya yardım edir, ona mənəvi dəstək olur. Oğlanın duyğularını layiqincə qiymətləndirməyə can atan Nastya bir gün onun sevgisinə cavab verməyi qərara alır. Lakin əvvəlki sevgilisi qayıdınca, qız dostunu tərk edir. Oğlan Nastyanı bağışlayır və yenə sevməyə davam edir. Nastya  onun həyatının ən parlaq səhifəsidir! Dünya ədəbiyyatının ən böyük nümayəndələrindən biri hesab olunan Fyodor Mixayloviç Dostoyevski (1821-1881) rus ədəbiyyatı tarixində özünəməxsus yer tutur. Tənqidçi Belinski deyirdi ki, o qeyri-adi və bənzəri olmayan bir istedaddır. F. M. Dostoyevskinin yaradıcılığı dünya ədəbiyyatında realizmin inkişaf etməsi üçün zəngin bir xəzinədir. Onun “Bəyaz gecələr” əsəri 1848-ci ildə çap olunub. Dostoyevski bu əsəri gənclik illərinin dostu, şair A. N. Pleşeyevə həsr edib.",
+      "bookPhoto": "https://static.insales-cdn.com/images/products/1/5623/212981239/Dostoyevski_Beyaz_Geceler_mini.png",
+      "bookGenre": "Klassika",
+      "bookPrice": 3.99,
+      "bookYear": 1848,
+      "bookPage": 126,
+      "bookCount": 100
+    },
+
+    {
+      "bookID": 46,
+      "bookName": "Oyun",
+      "bookAuthor": "Cek London",
+      "bookDescription": "Dünya şöhrətli yazıçı Cek London həm bir idman müxbiri, həm də həvəskar boksçu olaraq boksla yaxından maraqlanmışdır. “Oyun” romanında pul qarşılığında döyüşən Co adlı boksçunun fa­ciəvi taleyindən bəhs olunur. Conun sevgilisi Cenevyeva onun döyüşməsinə qarşı olsa da, o, müəyyən səbəblərə görə döyüşməyə məc­bur­dur. Co, toy günündə sonuncu dəfə rinqə çıxır və bu onun son döyüşü olur. İşin içinə pul qarışdığında boks idmanının nə qədər acımasız ola biləcəyini söyləyən qısa və təsiredici roman.",
+      "bookPhoto": "https://static.insales-cdn.com/images/products/1/5760/350877312/Jack_London_Oyun_Mini_ESAS.png",
+      "bookGenre": "Klassika",
+      "bookPrice": 4.99,
+      "bookYear": 1905,
+      "bookPage": 80,
+      "bookCount": 100
+    },
+
+    {
+      "bookID": 47,
+      "bookName": "Şahmat",
+      "bookAuthor": "Stefan Sveyq",
+      "bookDescription": "Psixoloji janrda şedevrlərdən hesab olunan “Şahmat” (alm. Schachnovelle )əsərialman yazıçı Stefan Sveyqin qələminin məhsuludur. Sveyqin, Braziliyada sürgündə olarkən qələmə aldığı və 1942-ci il fevral ayında etdiyi intahardan bir neçə ay öncə tamamladığı “Şahmat”, Avropa mədəniyyətinin Nasyonal Sosializm ideyaları altında məhv edilməsinə bir işarədir. İlk öncə 1942-ci ildə Argentinanın Paytaxtı Buenos–Ayresdə 250 nüsxə ilə buraxılan əsər, daha sonra 1944-cü ildə ingilis dilinə tərcümə olunan əsər Nyu-Yorkda nəşr olumuşdur. Bu günə qədər Almaniyada əsərin 1.200.000-dən çox nüsxəsi satılmışdır. Avropa mədəniyyətinə vida edərkən həyata da vida etməyi seçən Sveyq, həyata vida etmədən öncə dünya ədəbiyyatına “Şahmat” kimi bir miras bəxş elədi. Psixoloji janrda qələmə alınan, qəhrəmanın ruhi pozuntularının əks olunması ilə qısa, amma hər baxımdan insanda dərin hissləri yerindən oynadan bir əsər təsiri bağışlayan “Şahmat” eyni zamanda da fərqli dünyaların qapısını üzümüzə açır.",
+      "bookPhoto": "https://static.insales-cdn.com/images/products/1/2738/178637490/20180928_142259.png",
+      "bookGenre": "Klassika",
+      "bookPrice": 3.99,
+      "bookYear": 1941,
+      "bookPage": 58,
+      "bookCount": 100
+    },
+
+    {
+      "bookID": 48,
+      "bookName": "Körpüdə ümid",
+      "bookAuthor": "Natiq Məmmədli",
+      "bookDescription": "Ümidqovan adlı məkan və bütün insanların arzularını həyata keçirən Ümid Piri. Qəflətən dili tutulan bir uşağı şəfa tapması üçün bura gətirirlər, üç gecə ziyarətgahda qalır, camaatın ağıldankəm hesab elədiyi Pirdəli ilə dostlaşır və maraqlı söhbətləri alınır. Əslində isə danışan onların dilləri yox, ürəkləri olur. Arada tarixin də səsləri eşidilir. Min il geriyə qayıtmalı olursan, Pont hökmdarı Mitridatla Roma sərkərdəsi Pompeyin orduları Ümidqovanda üz-üzə gəlir. Təlaş için­­də olanları bir sual düşündürür, «kimə təslim olaq – Şərqə,yoxsa Qərbə». Nəhayət, dili tutulan uşağın insanların gizli məktub­larını oxuması ilə pir müqəddəsliyini itirir. Ümidqovan – körpü üstündə vətən deməkdir. Roman özlərinə körpü üzərində vətən quran insanlardan, onların keçmişləri və ümidlərindən bəhs edir",
+      "bookPhoto": "http://kitabal.az/img/books/6030427.jpg",
+      "bookGenre": "Proza",
+      "bookPrice": 2,
+      "bookYear": 2001,
+      "bookPage": 199,
+      "bookCount": 100
+    },
+
+    {
+      "bookID": 49,
+      "bookName": "Cəllad məzarlığı",
+      "bookAuthor": "Əsli Perker",
+      "bookDescription": "Əsasən bir qətl hadisəsi üzərində qurulan bu psixoloji romanda, demək olar, dörd nəfər – Həmid, İsa, Lütfü və Fuad ətrafında baş verənlərdən danışılır. Həmid tanınmış tətikçi – killer olaraq “təmiz iş” görməkdə ad çıxarıb. İsa isə qəbiristanlıq – məzarlıq keşikçisi olaraq Həmidin öldürdüyü adamları adlı, adsız qəbirlərə gömməklə izi itirməkdə ona yardımçı olur. Lütfünü dayısının – Həmidin köməkçisi saymaq olar, o da bu dünyada özünü sınamaq istəyir. Dayısına heyranlıqla yanaşı qorxu hissi də onu daim izləyir. Fuad isə təsadüfü bir qətli törədib onun qurbanına çevrilib. Universitet tələbəsi olan bu gənc istəmədən elədiyi cinayətin izini itirmək üçün bir zamanlar yaxşılıq etdiyi Lütfüyə üz tutur. Sanki hər şeydən qurtulur, cinayəti gizlətməyi bacarır. Ancaq bu gizlətdikləri onu içəridən, daxildən didib-dağıdır. Yazıçı gəncin psixoloji sarsıntılarını, iztirablarını oxucuya çılpaq şəkildə çatdırmaq bacarığıyla onu da sanki hadisələrin iştirakçısına çevirir, gərginlikdə saxlayır. Türkiyəli yazıçı Əsli E.Perkerin romanı hər janrda – istər psixoloji, istər detektiv – əsərləri sevən oxucular üçündür.",
+      "bookPhoto": "https://www.qanun.az/images/news/compressed/2020-01-26-23-08-431580065723.jpg",
+      "bookGenre": "Roman",
+      "bookPrice": 2,
+      "bookYear": 2017,
+      "bookPage": 302,
+      "bookCount": 100
+    },
+
+    {
+      "bookID": 50,
+      "bookName": "Baskervillər iti",
+      "bookAuthor": "Artur Konan Doyl",
+      "bookDescription": "Dünyada illər boyu dedektiv janrda mötəbər mövqe tutan Artur Konan Doylun “Baskervillərin iti” romanının süjet xəttini – varis Çarlz Baskervilin müəmmalı ölümü təşkil edir. Bu cinayət barədə, İngiltərənin Devonşir qraflığının Qrimpen kilsəsinin həkimi Ceyms Mortimer Şerlok Holmsa xəbər verir. Məşhur xəfiyyə Şerlok Holms və onun dostu, həm də köməkçisi, doktor Uotson bu qətl hadisəsini tədqiq edirlər. Hadisələr – 1889-cu ilin sentyabr-oktyabr aylarında baş verir…",
+      "bookPhoto": "https://static.insales-cdn.com/images/products/1/5294/171070638/f6c958f3131a2894d23e94115ef48d90.png",
+      "bookGenre": "Dedektiv",
+      "bookPrice": 4.99,
+      "bookYear": 1901,
+      "bookPage": 224,
+      "bookCount": 100
+    },
+
+    {
+      "bookID": 51,
+      "bookName": "İnsan nə ilə yaşayar",
+      "bookAuthor": "Lev Tolstoy",
+      "bookDescription": "Lev Tolstoy bu əsəri İncildən götürülmüş sitatlar əsasında yazıb. Burada günah işlətmiş mələyin 'İnsan nə ilə yaşayır?' sualına cavab tapmalı olmasından danışılır. O, sualın cavabını tapmasa, səmaya qayıda bilməyəcək. İnsanlar arasında yaşayıb, insan həyatının həqiqi mənasını anlamağa çalışacaq. Sualın cavabı isə çoх sadədir: Sevgi! İnsan sevgi ilə yaşayır.",
+      "bookPhoto": "https://static.insales-cdn.com/images/products/1/317/888619325/Tolstoy_insan_ne_ile_yasayir_Esas.png",
+      "bookGenre": "Klassika",
+      "bookPrice": 4,
+      "bookYear": 1885,
+      "bookPage": 86,
+      "bookCount": 100
+    },
+
+    {
+      "bookID": 52,
+      "bookName": "Komissar Meqre - Mərhum müsyö Qale",
+      "bookAuthor": "Georges Simenon",
+      "bookDescription": "Komissar Meqre seriyasında ailə bağlarının zəifliyini, dağıdıcı bədbəxtliyi və xəyanəti ustalıqla nümayiş etdirən bənzərsiz bir əsərdir. Daha açıq olmaq və qaranlıq qalan bütün detalları özü doldurmaq yerinə, daha çox ondan qaçana oxşayırdı. Kişinin üzü o qədər buğlanmışdı ki, onu insana bənzətməkdə, yəqin ki, hamı çətinlik çəkərdi. Nəzəri olaraq, bu portret kifayət qədər yaxşı idi, lakin indi onun detalları diqqəti toplamağa maneə olan bir görünüş ilə əvəz olunmuşdu. Müsyö Qalenin ölümünün bütün aspektləri öz-özlüyündə saxta görünür. Mərhumun altında gəzdiyi adı, ehtimal olunan peşəsi, daha narahat hiss etdirən isə… ailəsinin kədəri. Onların təkəbbürü bədbəxt adamla bağlı qeyri-adi hissləri gizlədir. Bu həyəcanverici hekayədə Meqre dəhşətli həqiqəti və yalanın arxasında gizlənən əsl cinayəti aşkar edəcək.",
+      "bookPhoto": "https://static.insales-cdn.com/images/products/1/6317/446707885/Komissar_Meqre_Musyo_Qale_qapaq.png",
+      "bookGenre": "Dedektiv",
+      "bookPrice": 5.99,
+      "bookYear": 1931,
+      "bookPage": 160,
+      "bookCount": 100
+    },
+
+    {
+      "bookID": 53,
+      "bookName": "On zənci balası",
+      "bookAuthor": "Aqata Kristi",
+      "bookDescription": "Kiçik bir ada və bir-birini tanımayan on qonaq… Naməlum ev sahibi… Bəs görəsən, hər kəsi bura dəvət edən bu məşum cənab kimdir? Qonaqların bunu araşdırmağa isə vaxtı qalmır. Patefon valından növbəylə səslənən ittihamlar bütün qonaqlar sanki hakim qarşısında, müttəhim kürsüsündə hiss etməyə vadar edir. Əlqərəz, əsl faciələr də bundan sonra başlanır. Naməlum ev sahibi tərəfindən ittiham olunan qonaqlar qəribə ardıcıllıqla qətlə yetirilirlər. Adada isə onlardan başqa heç kim yoxdur…",
+      "bookPhoto": "https://static.insales-cdn.com/images/products/1/5289/171070633/00cb01f342887085735a10a556305fb2.jpg",
+      "bookGenre": "Dedektiv",
+      "bookPrice": 6.99,
+      "bookYear": 1939,
+      "bookPage": 255,
+      "bookCount": 100
+    },
+
+    {
+      "bookID": 54,
+      "bookName": "Pərdə - Puaronun son işi",
+      "bookAuthor": "Aqata Kristi",
+      "bookDescription": "Bir-birinin ardınca intihar halları baş verir. Hamı bütün bunları bədbəxt hadisə kimi dəyərləndirir. Bircə məşhur detektiv Erkül Puaro heç nəyin təsadüfi olmadığını bilir. Lakin bu dəfə o, doğrudan da, ideal qatilə rast gəlir. Həm də səhhətində problemlər var. Əlil arabasına məhkum olunub. Puaro ömrünün payızında son işinin öhdəsindən gələ biləcəkmi? Bu, müəllifin “Erkül Puaro” silsiləsindən yazdığı son kitabdır. Əsəri yazıçı uzun müddət nəşr etdirməmişdir. Hadisələr Puaro haqda yazılan ilk roman – “Staylzdakı müəmmalı qətl”in cərəyan etdiyi məkanda baş verir. Erkül Puaro Staylzda yenidən sadiq dostu Artur Hastinqslə birlikdədir.",
+      "bookPhoto": "https://static.insales-cdn.com/images/products/1/5361/608392433/PUARONUN_SON_ISHI_qapaq.jpg",
+      "bookGenre": "Dedektiv",
+      "bookPrice": 9.99,
+      "bookYear": 1975,
+      "bookPage": 231,
+      "bookCount": 100
+    },
+
+    {
+      "bookID": 55,
+      "bookName": "Qaniçənlər aynası",
+      "bookAuthor": "Çingiz Abdullayev",
+      "bookDescription": "Qəribə sui-qəsd və ölüm hadisələri paytaxtda əks-səda yaratmışdır. Bu hadisələrin qəribəliyi onların peşəkar tərəfindən törədildiyilə bağlı deyildi. Maraq doğuran səbəb qurbanların seçilmə üsulu idi. Axı məşhur teleaparıcı və tanınmış iş adamını bir-biri ilə nə birləşdirə bilərdi? Bəs, onsuzda susmağa hazır olan şahidləri aradan götürmək kimə lazım idi?.. Elə bu anda hadisələri araşdırmağa hazır olan cavan jurnalist meydana çıxır. Bütün suallara canı bahasına belə cavab tapmağa razı olan insan. Hətta ölümə meydan oxumağa qadir olan şəxs. Bütün bunlara baxmayaraq suallar azalmır, əksinə, hər şey nə qədər aydın olsa da, bir o qədər də əlçatmaz olur…",
+      "bookPhoto": "https://static.insales-cdn.com/images/products/1/5346/171070690/4eb3fe700e126252b1bfbf01cdad0a37.jpg",
+      "bookGenre": "Dedektiv",
+      "bookPrice": 6,
+      "bookYear": 2001,
+      "bookPage": 440,
+      "bookCount": 100
+    },
+
+    {
+      "bookID": 56,
+      "bookName": "Məntiq qaydaları",
+      "bookAuthor": "Çingiz Abdullayev",
+      "bookDescription": "Üç epizoddan ibarət romanın birinci epizodunda dincəlmək üçün Marselə getmiş Dronqoya dostu və həmkarı – professor Stiven Rossdan qəfil telefon zəngi gəlir- o, Avropanın «şərab kralı» kimi tanınan məşhur milyonçu Edvard Harrisonun onunla təcili görüşmək istədiyini Dronqoya çatdırır. Dostunun xahişindən keçə bilməyən Dronqo istirahətini yarımçıq qoymalı olur və Rossla birgə milyonçunun Monpelyedəki qəsrinə yollanır. Mister Harrison Dronqoya Londondakı seyfindən müəmmalı şəkildə oğurlanmış çox qiymətli sənədlərin axtarışıyla məşğul olmağı və bunun müqabilində ona bir milyon funt qonorar təklif edir. Dronqo təklifdən imtina edir, lakin geri qayıtmağa hazırlaşarkən milyonçunun evində son dərəcə gözlənilməz hadisələr baş verir – cəmisi bir neçə saatdan sonra öz villasında, qapısı içəri tərəfdən bağlı otaqda mister Harrisonun meyiti aşkar olunur- ertəsi gün isə təxminən eyni vəziyyətdə onun otuz yaşlı gözəl xanımı Anna Harrison qətlə yetirilir. Cinayət işlərinin təhqiqatıyla məşğul olan polis komissarı Dyubuanın səyləri heç bir nəticə vermir, lakin Dronqo polis komissarının bacarmadığı çətin işə girişib, çox qısa bir müddətdə bu müəmmalı qətllərin sirrini açmağa və qatili tapmağa müvəffəq olur. İkinci və üçüncü epizodlarda Dronqo daha çətin, daha mürəkkəb situasiyalara düşür və daha müəmmalı cinayətlərin təhqiqatına cəlb olunur. Bir-birindən fərqli şəkildə törədilmiş amansız qətllərin üstünü açmaq, qatili ifşa etmək ilk baxışda mümkünsüz görünsə də, Dronqo öz çevik ağlının və ona heç vaxt etibarsız çıxmayan dəmir məntiqinin sayəsində bu işlərin öhdəsindən məharətlə gəlir.",
+      "bookPhoto": "https://static.insales-cdn.com/images/products/1/5352/171070696/b0f70b4274768946994d6521b8a35698.jpg",
+      "bookGenre": "Dedektiv",
+      "bookPrice": 5.5,
+      "bookYear": 1990,
+      "bookPage": 176,
+      "bookCount": 100
+    },
+
+    {
+      "bookID": 57,
+      "bookName": "Yekun diaqnoz",
+      "bookAuthor": "Çingiz Abdullayev",
+      "bookDescription": "Rusiyanın ən məşhur alim və siyasətçilərindən birinin ölümü ən azı yöndəmsiz görünürdü. Əslində, kristal kimi təmiz şərəfinə görə əfsanəyə çevrilmiş bir adamı kim güllələyə bilərdi? Bundan başqa, qatil, Moskva ətrafının ən elit və ən yaxşı mühafizə olunan qəsəbəsinə gözə görünmədən necə girə bilərdi? Bunun ardınca isə yeni – birinci qurbanın bağ qonşusunun ondan heç də az qəribə olmayan qətlindən sonra rəsmi təhqiqat dalana dirənir. Beləcə, agent Dronqonun karyerası boyunca ən çətin işlərindən biri başlayır. O iş ki, orda suallar getdikcə artır, cavablar isə yoxdur ki, yoxdur…",
+      "bookPhoto": "https://static.insales-cdn.com/images/products/1/5311/171070655/672d58cc446c502f51f188cc21f10216.jpg",
+      "bookGenre": "Dedektiv",
+      "bookPrice": 5,
+      "bookYear": 2001,
+      "bookPage": 239,
+      "bookCount": 100
+    },
+
+    {
+      "bookID": 58,
+      "bookName": "Balkan sindromu",
+      "bookAuthor": "Çingiz Abdullayev",
+      "bookDescription": "Dünyaca məşhur ekspert-analitik Dronqo bu dəfə siyasi əhəmiyyət kəsb edən işin öhdəsindən gəlməlidir. Federal Təhlükəsizlik Xidmətinin rəhbərliyi ekspertdən xahiş edir ki, Serbiyadakı həmkarlarına kömək etsin. Serbiya prokurorluğu ölkənin baş nazirinin müavini Predraq Baştiçin qətlə yetirilməsi üzrə qaldırılmış cinayət işinin təfərrüatlarına varmaq üçün əlindən gələni edir. Predraq Baştiç bütün Balkan respublikalarının hakimiyyət nümayəndələrinin çox əhəmiyyətli görüşü zamanı öz iqamətgahında boğularaq öldürülüb. Şübhəli şəxs qismində Baştiçin otağını mühafizə edən keşikçi həbs edilir. Dronqo aydınlaşdırır ki, qətl günü iqamətgahda dörd nəfər kənar şəxs olub, onlar iqamətgahda keçirilən məxfi görüşdə iştirak etməli deyildilər. Həmin şəxslərdən biri də Baştiçin oğludur…",
+      "bookPhoto": "https://static.insales-cdn.com/images/products/1/5396/171070740/82a7d7f3be8ba6cf02b1ba414c3ac90c.jpg",
+      "bookGenre": "Dedektiv",
+      "bookPrice": 6.5,
+      "bookYear": 1997,
+      "bookPage": 304,
+      "bookCount": 100
+    },
+
+    {
+      "bookID": 59,
+      "bookName": "Okkamanın inkarı",
+      "bookAuthor": "Çingiz Abdullayev",
+      "bookDescription": "Nəhəng korporasiyanın rəhbərinin oğlu Yeqor Boqdanovski mədə xorasının kəskinləşməsi üzündən vəfat edir – hər halda həkimlər belə iddia edirlər. Sırasında məşhur siyasətçilər, nüfuzlu biznesmenlər, aktyorlar olan yaxınlar buna inanmırlar və ekspert analitik Dronqoya təhqiqat aparması üçün müraciət edirlər. Dronqo öz işinin bilicisi olsa da, hətta o da hökmranlığa vərdiş etmiş, özlərinə hər şeyi rəva görən şəxslər arasında işləməyə çətinlik çəkir. Onun bütün versiyaları – qisas, qısqanclıq, paxıllıq – təhqiqatın gedişində təkzib olunur. O, artıq öz məğlubiyyətini etiraf etməyə hazırdır, ancaq adi bir xırdalıq, danışıqda keçmiş cəmi bir neçə söz gözlənilmədən cinayətin motivini də, qatilin özünü də faş edir...",
+      "bookPhoto": "https://static.insales-cdn.com/images/products/1/4049/198569937/C.Abdullayev_Okkama_qapaq.png",
+      "bookGenre": "Dedektiv",
+      "bookPrice": 6.99,
+      "bookYear": 2003,
+      "bookPage": 255,
+      "bookCount": 100
+    },
+
+    {
+      "bookID": 60,
+      "bookName": "Cəlladın müdrikliyi",
+      "bookAuthor": "Çingiz Abdullayev",
+      "bookDescription": "Qiyamçı zabitlər dəstəsi qitələrarası raketləri idarə­et­­mə­nin baş məntəqəsini ələ keçirmişdi… Hökumət iflic ərəfəsindədir… Prezident seçkiləri yaxınlaşmaqdadır – ölkə­­nin yeni liderinin kim olacağı artıq heç kim üçün sirr deyil. Ölkə köklü dəyişikliklər astanasındadır. Havadan təhlükəli və həyəcanlı qoxular gəlir. Hamı intizarla gözləyir… Hamı üçün təbii və aşkar olan tarixin gedişatını dəyişməyə cəmisi bir neçə nəfər sistematik hazırlıq görür. Bunu bacaracaqlarına şübhə etmirlər. Xüsusilə də bütün işləri bircə güllə ilə həll etmək mümkün olduğu halda. Super-qatil artıq sifarişini alıb, görəcəyi iş müqabilində onu böyük qonorar gözləyir. Hətta sui-qəsd xəbəri xüsusi xidmət orqanlarına çatsa belə, nəyisə dəyişmək mümkün deyil. Mexanizm işə salınıb, geriyə yol yoxdur. Son dərəcə istedadlı və professional qatilə qarşı çıxış etməyə yalnız onun özü kimi yüksək səviyyəli bir mütəxəssis qadirdir. Və belə bir adam tapılır – o, ekspert-analitik Dronqodur.",
+      "bookPhoto": "https://static.insales-cdn.com/images/products/1/4507/198799771/5580430.jpg",
+      "bookGenre": "Dedektiv",
+      "bookPrice": 10.99,
+      "bookYear": 2001,
+      "bookPage": 480,
+      "bookCount": 100
+    },
+
+    {
+      "bookID": 61,
+      "bookName": "Dağılma rəzmləri",
+      "bookAuthor": "Çingiz Abdullayev",
+      "bookDescription": "Bu məmulat “nüvə çamadanı” adlanır, daha doğrusu isə məhdud təsir radiuslu nüvə maddəsi. Bir sözlə, son dərəcə məxfi və təhlükəli  silahdır. İndi fövqəladə bir hadisə baş verib – iki belə bir “çamadan” yoxa çıxıb, onları oğurlayan adamlar isə olduqca qəribə şəkildə həlak olub. İtkini nəyin bahasına olursa-olsun tapmaq – Rusiyanın bütün xüsusi xidmət orqanlarına verilən əmr məhz bu cürdür. Cinayət aləminin liderləri və terrorçular da bu təhlükəli “oyuncağı”  ələ keçirmək niyyətindədir. Lakin axtarışlar heç bir nəticə vermədiyi üçün xüsusi xidmət orqanları bu istintaqa ekspert-analitik Dronqonu da cəlb etmək məcburiyyətində qalırlar. İndi tapşırıq olduqca çətindir: Paris kimi bir yerdə – silah məhz orada üzə çıxmışdır – kiçik bir bombanı necə axtarıb tapmalı? ",
+      "bookPhoto": "https://www.qanun.az/images/news/compressed/2022-07-06-09-16-381657084598.jpg",
+      "bookGenre": "Dedektiv",
+      "bookPrice": 14.99,
+      "bookYear": 2001,
+      "bookPage": 494,
+      "bookCount": 100
+    },
+
+    {
+      "bookID": 62,
+      "bookName": "Birinci addım - Beş anonim milyonçu",
+      "bookAuthor": "Qaraqan",
+      "bookDescription": "Salam! Dost, bilmirəm bu oxuduğun ilk kitabımdır, ya artıq dəfələrlə həmsöhbət olmuşuq. Bil­mi­rəm məni nə dərəcədə yaxşı tanıyırsan. Sənin gö­zündə özün­­dənrazı və şöhrətpərəst bir ulduz, yox­sa sevdiyin, özü­­nə yaxın saydığın bir insanam? Bilmirəm, bu kitabı al­mısan, ya kimdənsə təsadüfən götürmüsən, ya da kitab dükanında açıb ilk cümlələri oxuyursan. Bilmirəm, ümumiyyətlə, kitab oxumaq həvəskarısan, yoxsa sənin gözündə bu boş bir şeydir. Bilmirəm... Amma sənə bir şeyi danışmaq istəyirəm. Bu aralar mənim həyatımda qəribə bir şey baş verdi. Bir anlıq geriyə çevrilib baxdım və qazandığım uğurları gördüm. Cəmi beşcə ilin içində o qədər irəliləyə bilmişdim ki, bu çox adam üçün təəccüblü də görünə bilərdi. 18 yaşımda olarkən arzu etdiyim yerə gəlib çatdığımı gördüm.",
+      "bookPhoto": "https://static.insales-cdn.com/images/products/1/4321/197177569/Qaraqan_qapaq_Birinci_Addim.png",
+      "bookGenre": "Roman",
+      "bookPrice": 8.4,
+      "bookYear": 2001,
+      "bookPage": 255,
+      "bookCount": 100
+    },
+
+    {
+      "bookID": 63,
+      "bookName": "İkinci addım - Həqiqətin beş adı",
+      "bookAuthor": "Qaraqan",
+      "bookDescription": "Amma burada əsas məsələ var. “Gedəcəyiniz ünvan” – siz onu bilirsiniz, ona görə də oraya çata bilirsiniz. Yaxşı, bəs əgər eyni şərait olsa və siz hara gedəcəyinizi də bilmirsiniz. Kağızı itiribsiniz və ge­də­­cəyiniz stansiya haqda heç nə bilmirsiniz. Sizdə olan məlumat təkcə bu ünvan idi. Siz illərlə qatardan qatara tullanaraq, heç vaxt sizə lazım olan yerə çata bilməzsiniz. Belə ki, sizə nə lazımdır, hara lazımdır bilmirsiniz.",
+      "bookPhoto": "https://static.insales-cdn.com/images/products/1/1506/316974562/2020-05-07-00-06-371588795597.jpg",
+      "bookGenre": "Roman",
+      "bookPrice": 9.99,
+      "bookYear": 2001,
+      "bookPage": 199,
+      "bookCount": 100
+    },
+
+    {
+      "bookID": 64,
+      "bookName": "Üçüncü addım - Rəqəmsal meşə",
+      "bookAuthor": "Qaraqan",
+      "bookDescription": "“Üçüncü Addım”ı bu gün oxuyub bitirdim. Yazdıqlarıma baxdım və başa düşdüm ki, bu qarışıq, ağır və inanılmaz kitabdan heç nə anlamaq olmur. Kvant fizikasını, Kemantika, Rasionalizm fəlsəfəsi, Astrofizika, Etologiya və Neyrofiziologiyanı, Dzen məktəbini bir araya sıxışdırmaq, 200 səhifədə tam anlatmaq mümkün olmadı. Bu kitab Üçüncü Addım deyil, Üçüncü Addıma doğru bir işarədir. Onu atmaq üçün isə siz özünüz daha dərindən və hər bir mövzunu ayrılıqda incələməlisiniz. Ümid edirəm ki, Rəqəmsal meşəyə bu alleqorik səyahət sizin yadınızda xoş bir xatirə olaraq qalacaq.",
+      "bookPhoto": "https://static.insales-cdn.com/images/products/1/6213/422533189/Qaraqan_qapaq_Ucuncu_Addim.png",
+      "bookGenre": "Roman",
+      "bookPrice": 9.99,
+      "bookYear": 2001,
+      "bookPage": 199,
+      "bookCount": 100
+    },
+
+    {
+      "bookID": 65,
+      "bookName": "Martin İden",
+      "bookAuthor": "Cek London",
+      "bookDescription": "Kasıb təbəqənin nümayəndəsi olan 21 yaşlı Martin İden işçi, matros olur. O bir gün Artura sataşan avaralarla dalaşıb, onları yaxşıca əziş­dirir. Bunun müqabilində Artur ona təşəkkür etmək üçün evlərinə na­ha­ra çağırır. Artur Martinin yaşında olan yüksək təbəqənin, burjua ailə­sinin üzvüdü. Martin onlara qonaq gələrkən yüksək təbəqənin adamlarına, onların savadlarına heyran qalır. Elə burada da Arturun bacısı Rufu görür və onu sevir. Ruf yarıtəhsilli Martinə ingilis dilində gözəl danışmağı öyrədir, onda ədəbiyyata maraq oyadır. Martin öyrənir ki, jurnallar yazıçılara on­ların əməyi müqabilində yaxşı qonorar verir. Ona görə də qəti qərara gə­­lir ki, yazıçı olsun və öz sevgilisinə layiq olan təbəqənin adamları sı­rasına qatılsın.",
+      "bookPhoto": "https://static.insales-cdn.com/images/products/1/4342/171069686/7d923e5b072559a12cf139016161fc50.png",
+      "bookGenre": "Klassika",
+      "bookPrice": 9.99,
+      "bookYear": 1909,
+      "bookPage": 392,
+      "bookCount": 100
+    },
+
+    {
+      "bookID": 66,
+      "bookName": "Lüsifer effekti",
+      "bookAuthor": "Filip Zimbardo",
+      "bookDescription": "Sadə bir insanı cəllada çevirən nədir? Amerikalı sosiopsixoloq Filip Zimbardo müxtəlif ölkələrdə, o cümlədən İraq həbsxanalarında baş verən real hadisələrdən təsirlənərək tələbələr arasında keçirdiyi Stanford təcrübəsi ilə bu çətin suala cavab axtarır və təcrübənin həm gedişini, həm nəticələrini “Lüsifer effekti” adlandırdığı bu kitabda geniş qələmə alır. Az vaxtda böyük marağa səbəb olan kitab bestsellerə çevrilir. Zimbardoya görə insanı şər qüvvəyə çevirən onun düşdüyü mühit və onu yönəldən sistemdir. Bəs çıxış yolu varmı? Kitab bu suala da cavab axtarır və çıxış yolunu qəhrəmanlıqda görür. Qəhrəmanlıqsa çoxunun düşündüyü kimi seçilmiş insanların deyil, hər kəsin bacaracağı bir işdir. Qəhrəmanlıq qeyri-adi ola bilər, qəhrəmanlar adi insanlardır. “Lüsifer effekti” təkcə məzmun və ideyası ilə deyil, təhkiyə və üslubu ilə də oxucuları ovsununa salır.",
+      "bookPhoto": "https://www.qanun.az/images/news/compressed/330x470/2022-03-04-14-54-061646391246.jpg?v=1",
+      "bookGenre": "Psixologiya",
+      "bookPrice": 17.99,
+      "bookYear": 2007,
+      "bookPage": 509,
+      "bookCount": 100
+    },
+
+    {
+      "bookID": 67,
+      "bookName": "Qoca və dəniz",
+      "bookAuthor": "Ernest Heminquey",
+      "bookDescription": "'Qoca və dəniz' Ernest Heminqueyin dünya şöhrətli əsəridir. Əsərdə ucsuz-bucaqsız okeana xırdaca bir qayıqla ova çıxan tənha qocadan bəhs edilir. Öncəki bütün ovları uğursuz nəticələnən qoca bu dəfə nəhəng bir balıq ovlayır. Bu zaman isə o, öz şikarını köpəkbalıqlarının hücumundan qorumaq üçün gərgin mübarizə aparır. Baş qəhrəman prototipi müəllifin yaxından tanıdığı kubalı qoca balıqçıdır.",
+      "bookPhoto": "https://www.qanun.az/images/news/compressed/260x400/2021-08-26-11-50-481629964248.png?v=1",
+      "bookGenre": "Roman",
+      "bookPrice": 3.99,
+      "bookYear": 1952,
+      "bookPage": 104,
+      "bookCount": 100
+    },
+
+    {
+      "bookID": 68,
+      "bookName": "Ağ zanbaqlar ölkəsi",
+      "bookAuthor": "Qriqori Petrov",
+      "bookDescription": "Əsər geridə qalmış bir ölkənin tərəqqi yoluna çıxmasının və çiçəklənməsinin özünəməxsus modelini yaradır. Yarıreal, yarıutopik təsvirlərlə təqdim olunan Finlandiya sonradan, doğrudan da, ciddi tərəqqi yolu keçərək dünyanın ən qabaqcıl və zəngin ölkəsinə çevrilir. Bu əsərin yazılmasına qədər və ondan sonrakı Finlandiyanın müqayisəsi heyrət doğurur.",
+      "bookPhoto": "https://www.qanun.az/images/news/compressed/260x400/2024-04-22-10-19-371713766777.jpg?v=1",
+      "bookGenre": "Klassika",
+      "bookPrice": 9.99,
+      "bookYear": 1923,
+      "bookPage": 208,
+      "bookCount": 100
+    }
+  ]
+}
+
+
+
