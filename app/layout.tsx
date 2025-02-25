@@ -1,5 +1,7 @@
 import type { Metadata } from "next";
 import "./globals.css";
+import Header from "@/components/Header/page";
+import Footer from "@/components/Footer/page";
 
 export const metadata: Metadata = {
   title: "Sfera Nəşriyyatı",
@@ -13,7 +15,13 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="az">
-      <body className="antialiased">{children}</body>
+      <body className="antialiased">
+        <div className="flex flex-col gap-3 min-h-screen">
+          <Header />
+          <main className="flex-1">{children}</main>
+          <Footer />
+        </div>
+      </body>
     </html>
   );
 }
