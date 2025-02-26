@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 import Header from "@/components/Header/page";
 import Footer from "@/components/Footer/page";
+import { ClerkProvider } from "@clerk/nextjs";
 
 export const metadata: Metadata = {
   title: "Sfera Nəşriyyatı",
@@ -14,7 +15,8 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="az">
+   <ClerkProvider>
+     <html lang="az">
       <body className="antialiased">
         <div className="flex flex-col gap-3 min-h-screen">
           <Header />
@@ -23,5 +25,6 @@ export default function RootLayout({
         </div>
       </body>
     </html>
+   </ClerkProvider>
   );
 }

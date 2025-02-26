@@ -1,17 +1,26 @@
 import React from "react";
 import Loqo from "../common/Loqo";
-import Slogan from "../common/Slogan";
 import Link from "next/link";
 import MobileNav from "../common/MobileNav";
+import Search from "../common/Search";
+import { SignedIn, SignedOut, SignInButton, UserButton } from "@clerk/nextjs";
 
 const Header = () => {
   return (
     <div className="bg-red-800 p-2 flex gap-5 justify-between items-center text-white">
       <Loqo />
+      <Search/>
       <div className="hidden mx-5 gap-10 md:flex">
         <Link href="/books">Kitablar</Link>
         <Link href="/basket">Səbət</Link>
-        <Link href="/login">Giriş</Link>
+        <SignedOut>
+          <SignInButton>
+            <Link href="/login">Giriş</Link>
+          </SignInButton>
+        </SignedOut>
+        <SignedIn>
+          <UserButton />
+        </SignedIn>
       </div>
 
       <div className="flex md:hidden">
