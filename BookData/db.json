@@ -85,7 +85,7 @@
       "bookDescription": "Devidin gənclik dostu Mark Melleri bir gün ona müraciət edir. Mark Melleri anonim təhdid məktubu alır. Məktub müəllifi Markdan ürəyində bir üçrəqəmli ədəd tutmağı, sonra zərfin içindəki ikinci zərfə baxmağı tələb edir. Mark ikinci zərfin içindəki məktubda fikrində tutduğu üçrəqəmli ədədi görəndə dəhşətə gəlir, təlaşa düşərək veteran detektivə müraciət edir. Bu necə ola bilər? Axı həmin ədəd Mark üçün heç bir əhəmiyyət kəsb etmir. O, sadəcə üç rəqəmdən ibarət kombinasiyadır, vəssalam. Bu sirri açmağa Mark Mellerinin ömrü çatmır – təhdid məktubunu yazan şəxs vədinə əməl edərək onu öldürür. Bəs Devid Qörni? Qocaman detektiv qurbanlarını aradan götürməzdən əvvəl onları bu cür məktublarla dəhşətə gətirməyi sevən silsilə qətllər ustasını tapa biləcəkmi?",
       "bookPhoto": "https://static.insales-cdn.com/images/products/1/5172/197112884/reqem_01.jpg",
       "bookGenre": "Dedektiv",
-      "bookPrice": 12.50,
+      "bookPrice": 12.5,
       "bookYear": 2010,
       "bookPage": 471,
       "bookCount": 100
@@ -707,7 +707,7 @@
       "bookName": "Pərdə - Puaronun son işi",
       "bookAuthor": "Aqata Kristi",
       "bookDescription": "Bir-birinin ardınca intihar halları baş verir. Hamı bütün bunları bədbəxt hadisə kimi dəyərləndirir. Bircə məşhur detektiv Erkül Puaro heç nəyin təsadüfi olmadığını bilir. Lakin bu dəfə o, doğrudan da, ideal qatilə rast gəlir. Həm də səhhətində problemlər var. Əlil arabasına məhkum olunub. Puaro ömrünün payızında son işinin öhdəsindən gələ biləcəkmi? Bu, müəllifin “Erkül Puaro” silsiləsindən yazdığı son kitabdır. Əsəri yazıçı uzun müddət nəşr etdirməmişdir. Hadisələr Puaro haqda yazılan ilk roman – “Staylzdakı müəmmalı qətl”in cərəyan etdiyi məkanda baş verir. Erkül Puaro Staylzda yenidən sadiq dostu Artur Hastinqslə birlikdədir.",
-      "bookPhoto": "https://static.insales-cdn.com/images/products/1/5361/608392433/PUARONUN_SON_ISHI_qapaq.jpg",
+      "bookPhoto": "https://www.qanun.az/images/news/compressed/260x400/2022-10-15-14-23-161665829396.jpg?v=1",
       "bookGenre": "Dedektiv",
       "bookPrice": 9.99,
       "bookYear": 1975,
@@ -895,9 +895,19 @@
       "bookYear": 1923,
       "bookPage": 208,
       "bookCount": 100
+    },
+
+    {
+      "bookID": 69,
+      "bookName": "Qadınlar nə istəyir? Kişilər nə verir?",
+      "bookAuthor": "Mustafa Kılınç",
+      "bookDescription": "Mustafa Kılınç baş ofisi Amerikada yerləşən Dünya NLP təlimçiləri arasında yer alan yeganə türkdür. Türkiyənin ilk və yeganə peşəkar NLP təlimçisidir. Siyasi Qoç adını qazanan Kılınç fərdi inkişaf, insan qaynaqları, idarəetmə sənəti, ünsiyyət, zəka, uğur, liderlik, psixologiya, yenilikçi zəka və “Təsirli liderlik” sahəsində araşdırmalar aparmış və bir sıra işlər görmüş biridir. Türkiyədə ilk dəfə NLP Qoçluğu və Siyasi Qoçluğu həyata keçirən Kılınç NLP Mütəxəssisləri Dərnəyinin rəhbəri, TÜSİAV Təhsil Sektoru başqanıdır. ”NLP ilə təsirli Qoçluq”, “İçimizdəki Həqiqət”, “NLP ilə uğurun daxili oyunu” və “Təsirli Liderlik” kitablarının müəllifidir. “İnsan düşündüyü qədər güclü, inandığı qədər ­qiymətlidir”.",
+      "bookPhoto": "https://www.qanun.az/images/news/compressed/260x400/2021-09-02-15-06-051630580765.jpg?v=1",
+      "bookGenre": "Psixologiya",
+      "bookPrice": 6.99,
+      "bookYear": 2011,
+      "bookPage": 312,
+      "bookCount": 100
     }
   ]
 }
-
-
-
