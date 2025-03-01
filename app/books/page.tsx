@@ -5,11 +5,13 @@ import { IBookData } from '@/Types/TBookData'
 import Image from 'next/image'
 import Button from '@/components/common/Button'
 import Link from 'next/link'
+import Search from '@/components/common/Search'
 
 const Books = () => {
   const url = "http://localhost:3000/books"
 
   const [books, setBooks] = useState<IBookData[]>([])
+  const [searchText, setSearchText] = useState<string>("")
 
   useEffect(() => {
     axios.get(url).then((response) => {
@@ -20,10 +22,21 @@ const Books = () => {
     })
   }, [])
 
+
+  const filterBookItem = books.filter((book) => 
+    book.bookName.toLowerCase().includes(searchText.toLowerCase()) ||
+    book.bookAuthor.toLowerCase().includes(searchText.toLowerCase())
+  )
+
+
   return (
-    <div className='flex flex-wrap gap-5 justify-center'>
+    <>
+   
+   <Search searchText={searchText}  setSearchText={setSearchText} />
+   
+      <div className='flex flex-wrap gap-5 justify-center'>
       {
-        books.map((book : IBookData) => {
+        filterBookItem.map((book : IBookData) => {
           return (
             <div key={book.id} className="border border-solid my-3 p-5 w-[300px] min-h-[450px] flex flex-col justify-between text-center rounded-lg shadow-lg"> 
               <Image src={book.bookPhoto} alt={book.bookName} width={250} height={250} className="mx-auto rounded object-cover aspect-[3/4]"></Image>
@@ -40,6 +53,7 @@ const Books = () => {
         })
       }
     </div>
+    </>
   )
 }
 
