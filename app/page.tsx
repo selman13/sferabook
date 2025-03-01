@@ -6,8 +6,8 @@ import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";
 import "swiper/css/navigation";
 import "swiper/css/pagination";
-import { Navigation, Pagination } from "swiper/modules";
-
+import "swiper/css/autoplay"
+import { Navigation, Pagination, Autoplay } from "swiper/modules";
 const page = () => {
   const images = [
     { id: 0, item: "/Photos/banner1.png", type: "image" },
@@ -23,21 +23,21 @@ const page = () => {
       </div>
 
       <Swiper
-        modules={[Navigation, Pagination]}
+        modules={[Navigation, Pagination, Autoplay]}
         spaceBetween={30}
         slidesPerView={1}
         navigation
         pagination={{ clickable: true }}
-        loop={true} // Swiper dövr etməsini təmin edir
+        loop={true}
         autoplay={{
-          delay: 3000, // Slayd hər 3 saniyədən bir dəyişir
-          disableOnInteraction: false, // Avtomatik keçid istifadəçi ilə qarşılıqlı fəaliyyət zamanı da davam edir
+          delay: 3000, 
+          disableOnInteraction: false,
         }}
         className="w-full max-w-4xl h-[500px]"
       >
         {images.map((item) => (
           <SwiperSlide key={item.id}>
-            <div className="flex justify-center items-center h-full">
+            <div className="flex justify-center items-center w-full h-full">
               {item.type === "image" ? (
                 <Image
                   src={item.item}

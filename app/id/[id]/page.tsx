@@ -96,7 +96,7 @@ const BookDetail = () => {
         <h5 className="flex">
           <p className="font-bold">Qiymət:&nbsp;</p>
           <span className="!font-normal">{book?.bookPrice}&nbsp;</span>
-          <span className="ml-1"> AZN</span>
+          <span className="ml-1">AZN</span>
         </h5>
 
         <div>
